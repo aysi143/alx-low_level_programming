@@ -1,13 +1,12 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _abs - computes the absolute value for an interger
- * @n: interger to be tested
- * Return: 0 or 1
+ * _abs - computes the absolute value of an integer 
+ * @n: number 
+ *
+ * Return: absolute valueof n 
  */
-
 int _abs(int n)
-
 {
-	return (n < 0 ? -1 * n : n);
+	return (((n >= 0) ? 1 : -1) * n);
 }
