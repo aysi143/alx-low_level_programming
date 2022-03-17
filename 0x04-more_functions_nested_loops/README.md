@@ -1,2 +1,1 @@
-# More functions and tested loops
-
+0x04. C - More functions, more nested loops

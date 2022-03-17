@@ -1,42 +1,33 @@
 #include <stdio.h>
 /**
- * main - check the code for Holberton School students.
+ * main - Entry point
  *
- * Return: void.
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
+	int m;
 
-	int i = 1;
-
-	while (i <= 100)
+	for (m = 1 ; m < 100 ; m++)
 	{
-		if (i % 3 == 0 && i % 5 == 0)
+		if ((m % 3) == 0 && (m % 5) == 0)
 		{
-			printf("FizzBuzz");
+			printf("FizzBuzz ");
 		}
-		else if (i % 3 == 0)
+		else if (m % 3 == 0)
 		{
-			printf("Fizz");
+			printf("Fizz ");
 		}
-		else if (i % 5 == 0)
+		else if (m % 5 == 0)
 		{
-			printf("Buzz");
+			printf("Buzz ");
 		}
 		else
 		{
-			printf("%i", i);
+		printf("%d ", m);
 		}
-
-		if (i != 100)
-		{
-			putchar(' ');
-		}
-
-		i++;
 	}
-	putchar('\n');
+	printf("Buzz");
+	printf("\n");
 	return (0);
-
 }

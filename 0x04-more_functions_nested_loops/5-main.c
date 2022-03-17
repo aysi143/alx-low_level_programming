@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - check the code for Holberton School students.
@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    more_numbers();
-    return (0);
+	more_numbers();
+	return (0);
 }
