@@ -8,6 +8,8 @@ This repository contains programs written for the low-level programming.
 * [0x04. C - More functions, more nested loops](./0x04-more_functions_nested_loops)
 * [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
+* [0x07. C - pointers_arrays_strings](./0x07-pointers_arrays_strings)
+
 
 
 ## Author :Ethiopian Programmer (IC):
