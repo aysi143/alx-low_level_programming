@@ -9,6 +9,7 @@ This repository contains programs written for the low-level programming.
 * [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 * [0x07. C - pointers_arrays_strings](./0x07-pointers_arrays_strings)
+* [0x08. C - 0x08-recursion](./0x08-recursion)
 
 
 
