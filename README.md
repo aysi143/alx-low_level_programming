@@ -10,8 +10,8 @@ This repository contains programs written for the low-level programming.
 * [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 * [0x07. C - pointers_arrays_strings](./0x07-pointers_arrays_strings)
 * [0x08. C - 0x08-recursion](./0x08-recursion)
-
-
+* [0x09. C - 0x09-static_libraries](./0x09-static_libraries)
+* [0x0A. C - 0x0A-argc_argv](./0x0A-argc_argv)
 
 ## Author :Ethiopian Programmer (IC):
 
