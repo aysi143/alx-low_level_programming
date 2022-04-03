@@ -1,1 +1,1 @@
-0x09. c - static libraries
+ALX static lib
