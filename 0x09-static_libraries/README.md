@@ -1,1 +1,1 @@
-ALX static lib
+read documents in this file
