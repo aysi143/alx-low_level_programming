@@ -30,7 +30,6 @@ using project-based peer learning. For more information, visit
 
 <p align="center">
   <img
-    [//]: <> (src="https://lh3.googleusercontent.com/vH1HTHhq7BIEuhIDuEc2Wrc2LgZigsJEWDR56ALuDFRZv9-jqCgHNHuBHIB-fLrrbwp7tJ8b7qeIJo0VtHUh=s0")
     src="https://lh3.googleusercontent.com/mE907ZPomuw2w-uZ_GAOXkzkRbmCbKppuLEdq3NGpKCOD1J1sIVZQnu7ZqbfA7NXNEhMYvDPF0szyfhPUdelak5tRlVR4tdOCJw=w338"
     alt="ALX logo">
 </p>
