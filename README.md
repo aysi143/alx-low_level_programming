@@ -12,6 +12,11 @@ This repository contains programs written for the low-level programming.
 * [0x08. C - 0x08-recursion](./0x08-recursion)
 * [0x09. C - 0x09-static_libraries](./0x09-static_libraries)
 * [0x0A. C - 0x0A-argc_argv](./0x0A-argc_argv)
+* [0x0B. C - 0x0B-malloc_free](./0x0B-malloc_free )
+* [0x0C. C - 0x0C-more_malloc_free ](./0x0C-more_malloc_free )
+* [0x0D. C - 0x0D-preprocessor ](./0x0D-preprocessor )
+* [0x0E. C - 0x0E-structures_typedef ](./0x0E-structures_typedef )
+* [0x0F. C - 0x0F-function_pointers ](./0x0F-function_pointers )
 
 ## Author :Ethiopian Programmer (IC):
 
@@ -26,6 +31,6 @@ using project-based peer learning. For more information, visit
 
 <p align="center">
   <img
-    src="https://lh3.googleusercontent.com/vH1HTHhq7BIEuhIDuEc2Wrc2LgZigsJEWDR56ALuDFRZv9-jqCgHNHuBHIB-fLrrbwp7tJ8b7qeIJo0VtHUh=s0"
+    src="https://lh3.googleusercontent.com/mE907ZPomuw2w-uZ_GAOXkzkRbmCbKppuLEdq3NGpKCOD1J1sIVZQnu7ZqbfA7NXNEhMYvDPF0szyfhPUdelak5tRlVR4tdOCJw=w338"
     alt="ALX logo">
 </p>
