@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/3-print_all.c at master · musaubrian/alx-low_level_programming</title>
+  <title>alx-low_level_programming/variadic_functions.h at master · musaubrian/alx-low_level_programming</title>
     <meta name="description" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/d56f1af6a17c54e6ca5fb933a198484d567dd3ac39476fcc48fc29d7f09cf66a/musaubrian/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/3-print_all.c at master · musaubrian/alx-low_level_programming" /><meta name="twitter:description" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/d56f1af6a17c54e6ca5fb933a198484d567dd3ac39476fcc48fc29d7f09cf66a/musaubrian/alx-low_level_programming" /><meta property="og:image:alt" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/3-print_all.c at master · musaubrian/alx-low_level_programming" /><meta property="og:url" content="https://github.com/musaubrian/alx-low_level_programming" /><meta property="og:description" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/d56f1af6a17c54e6ca5fb933a198484d567dd3ac39476fcc48fc29d7f09cf66a/musaubrian/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/variadic_functions.h at master · musaubrian/alx-low_level_programming" /><meta name="twitter:description" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/d56f1af6a17c54e6ca5fb933a198484d567dd3ac39476fcc48fc29d7f09cf66a/musaubrian/alx-low_level_programming" /><meta property="og:image:alt" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/variadic_functions.h at master · musaubrian/alx-low_level_programming" /><meta property="og:url" content="https://github.com/musaubrian/alx-low_level_programming" /><meta property="og:description" content="Container for all my low-level projects. Contribute to musaubrian/alx-low_level_programming development by creating an account on GitHub." />
     
 
 
@@ -72,12 +72,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjozMTkzODQ1MjY0LCJ0IjoxNjQ5OTUzOTA2fQ==--2fdac31e2d9b331fc2953d65263c91dfc202a87989ea95338bbe218a82b37fcf" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjozOTI5NjY1MjQsInQiOjE2NDk5NTM4OTd9--ea75294f1e6ac9abf418e4f66073856770c3f4cd2410b1e1af2f055c064bb064" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="4E20:8545:80F99:88282:62584C71" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tdXNhdWJyaWFuL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxMC12YXJpYWRpY19mdW5jdGlvbnMiLCJyZXF1ZXN0X2lkIjoiNEUyMDo4NTQ1OjgwRjk5Ojg4MjgyOjYyNTg0QzcxIiwidmlzaXRvcl9pZCI6IjE4MDY4Njg0NTUwMjU2OTM2NzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="d0eb06f8c4a40d73a0a2960b8659c3d2701e6245f7282632b98e521514cea86a" data-pjax-transient="true" />
+  <meta name="request-id" content="9A05:3012:7A3AA:813DF:62584C69" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tdXNhdWJyaWFuL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxMC12YXJpYWRpY19mdW5jdGlvbnMiLCJyZXF1ZXN0X2lkIjoiOUEwNTozMDEyOjdBM0FBOjgxM0RGOjYyNTg0QzY5IiwidmlzaXRvcl9pZCI6IjE4MDY4Njg0NTUwMjU2OTM2NzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="5b2f7a40921ae3bc68b905dcf96a430d534cca7525f48408d711008ce426d47d" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:468252368" data-pjax-transient>
 
@@ -113,7 +113,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MmZiNDMwOGU4YjA3NTVjNTQ5NWUwOGVmZWM5NDQzNzEwNGYwNzI5OTAzYTQ1M2M3NDA0YjU1Yzk3NTRiNWM0OXx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiI0RTIwOjg1NDU6ODBGOTk6ODgyODI6NjI1ODRDNzEiLCJ0aW1lc3RhbXAiOjE2NDk5NTM5MDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NzYxNWY1MTk3MjBjMmUzNmQwYjIyYzdjZWE5ZmQyNDEzY2E1YWIwNGU0NjY0OGQxZTI0ODFiYWU5ZTRiMmRiNHx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiI5QTA1OjMwMTI6N0EzQUE6ODEzREY6NjI1ODRDNjkiLCJ0aW1lc3RhbXAiOjE2NDk5NTM4OTcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -132,7 +132,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -222,7 +222,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="45-_y5NTu6AhEnnGuQebQqzSQV7o-fYJ3PqWv3RJOii9S2I2axe769cKoacxyjDxLqJojxBeCL3Ne-f-AOV0qA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="FfC9CgR8QS-fE97ONIBR8wQkX_DH58j2O6mdc1WFh0BLJGD3_DhBZGkLBq-8TfpAhlR2IT9ANkIqKOwyISnJwA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -421,7 +421,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="7baf3202f3c8a7888ef1328594392840e752b2c786acfae68411f95c52f39974" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="0639d20e19167a4008aa87864ea0db75ab89600692d9c314894b0fd5298b8749" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -429,7 +429,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/49403558?s=40&amp;v=4" width="20" height="20" alt="@aysi143" />
       aysi143
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TfGtS_yVFhzi_seWn3XIWewjTQ4_9rBLt0GeRqGEoQnnXcf3kJLnAruFv-0MVJNa2AyfGweQPIhvXLy1CcAzvA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Usaeheq3kLCSuLTYtn3r8-hJzjDZqSNdKDZcaqNA9Kn4avQ5hrBhrsvDzKMlXLDw3GYcJeHPr57wK36ZCwRmHA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -468,7 +468,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjQ5OTUzOTA2fQ==--da96f6840bfff77907ef19d3934a3d72556fb4de2d30b35fb89d900a8973e284">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjQ5OTUzODk4fQ==--6e492fc6ce138f353abd8164e60a892b70805512111b0d9cca9d753339b84670">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -604,7 +604,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c
+      data-return-to=/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h
       data-user-id="49403558"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,10 +617,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="tHKUgTfh2aDobUuMwAZl2J-erq0lzwYo2Pr9BsoR9F3PY5SnUc-ZIPaydIm5UR13nIMnSc1mllhnZpWPcmTQkw" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="KQdVei1H_9YEOlezWoGtCYpXBd0xsGGj1qsFD0vxN3hSFlVcS2m_VhrlaLYj1tWmiUqMOdkZ8dNpN22G84QTtg" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="GXTI_Q8aLc1xwaG29fEoFCBXDQxh_GiB2TZcUZA4M1gcJGz17hNIFsh071pxf8WWQPER7oKP1KsE7s7FwEMk5A" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="-qM46qEA0vFOP0NsTWzUECpg9r0g55faAmY6vdOL5XP_85ziQAm3KveKDYDJ4jmSSsbqX8OUK_Dfvqgpg_Dyzw" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1527,7 +1527,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="5d8461c55ea5ab56392c352a8eaeb420381283104a8e646fe3cbcdf77d73ac5e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="a6653b4e0d59aea4f2a4197d37938407a4e5a63ac159f3c96651723606c76174" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1580,7 +1580,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H31_R8kKRC744PtJ0Cs6hWhbSLnshaFCrrqHRj8Q3AuBCkJeUGD2Ej7WhBHCDpQMAFs1RHQCz7aBBKCrsz_O0g" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wZt4P-YzdqjTJrQB8UewD_LPkSDKHTf5GL2kwEX7O_9f7EUmf1nElBUQy1njYh6Gms_s3VKaWQ03A4MtydQpJg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="468252368">
 
@@ -1698,7 +1698,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1nCtJNBhw23TRQkviodTMiZtTwIKfat1yAk7yILPWTZIB5A9SQtxURVzdneYov27Tm0y_5L6xYHntxwlDuBL7w" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a9g9PMbaKT8kEiImAmhSvm4x_LwzDRG8nDHNw-qvBOb1rwAlX7CbA-IkXX4QTfw3BjGBQauKf0izj-ouZoAWPw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="468252368">
 
@@ -1845,7 +1845,7 @@
   </li>
 
   <li>
-            <a href="/musaubrian/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="38ac43e8f7795ea94d5a600f83192a715f4a3735e9be22b41b9a90f5306b08fb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of musaubrian/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/musaubrian/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="ab1217489513bcb83261a7f3ece3d5a78df2df5de2f91728bbcec9916deda3d8" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of musaubrian/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1874,19 +1874,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/musaubrian/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="N7Tr1_agcX73rAhifjCtTdAivkHOgH5y0LCG3X-WLHI5F-jAYnSGzOz9cNXom15-btNqg9QJmFBTvNvyX3_KNA" autocomplete="off" />
-        <input type="hidden" value="5nxqNgXnL3-wW3h6e3kQ9VEdvz8i4Sb1kYGQqz0dwHLo32khkTPYzasKAM3t0uPG7-xr_ThowNcSjc2EHfQmNA" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/musaubrian/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OCwD2O17GAAoG9ztCVsQqCRcp4DlzYkHO14yduqJG0E2jwDPea_vsjNKpFqf8OObmq1zQv9EbyW4Um9ZymD9Bw" autocomplete="off" />
+        <input type="hidden" value="jORI1Y3L5Bq7OIbbWrOnzpogg_MS3l0sbn5aCmjF-ASCR0vCGR8TqKBp_mzMGFT9JNFXMQhXuw7tcgclSCweQg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="6be57aaced7950454be2f5437ff269e8871e07c165c24494062e2b802c7d0514" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="f0ce603b91b656b9e83867b94a4d10bf8d533014b636c0feba4170468e9d4ebe" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/musaubrian/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1wuj43EJ45ZnqAME5zT4sCawyRu-oMpPDP0Wqp6CopYowkdFDgyAoXhLbH86mXyLjBI_NNBApvz-d3FKRuwoOw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/musaubrian/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j0wik83JRAjr_eNEm0qGVuzfj2nWCXb8vADJtIu1pLdwhcY1sswnP_QejD9G5wJtRn15RrjpGk9Oiq5UU9suGg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="177cc2a9f2794a94d00477bb67fc97c712ffcaa0e57662b5eac138cb081c56fc" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="55e938b57899018b42bb74bf99a7671bf598f1290497cbb0fbf7fd7e3fc14232" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1907,13 +1907,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4e10de">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7603e2">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4e10de"
+        id="filter-menu-7603e2"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2116,7 +2116,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/musaubrian/alx-low_level_programming/blob/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/3-print_all.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/musaubrian/alx-low_level_programming/blob/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/variadic_functions.h">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2201,7 +2201,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/musaubrian/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/3-print_all.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/musaubrian/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/variadic_functions.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2241,7 +2241,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/musaubrian/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/3-print_all.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/musaubrian/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/variadic_functions.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2272,7 +2272,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/musaubrian/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/musaubrian/alx-low_level_programming/tree/master/0x10-variadic_functions"><span>0x10-variadic_functions</span></a></span><span class="separator">/</span><strong class="final-path">3-print_all.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/musaubrian/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/musaubrian/alx-low_level_programming/tree/master/0x10-variadic_functions"><span>0x10-variadic_functions</span></a></span><span class="separator">/</span><strong class="final-path">variadic_functions.h</strong>
   </h2>
   <a href="/musaubrian/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2285,7 +2285,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="b69cc79a35d92553d236040401f58c915f212931945ea32338b1f3dddb9c10a8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/musaubrian/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="4a4e968f32204401613541e5d2435db9ebccd0986efebdad8d7082a818fd3c78" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/musaubrian/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2298,13 +2298,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x10-variadic_functions/3-print_all.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x10-variadic_functions/variadic_functions.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/musaubrian/alx-low_level_programming/blob/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/3-print_all.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/musaubrian/alx-low_level_programming/blob/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/variadic_functions.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2336,17 +2336,80 @@
     <include-fragment src="/musaubrian/alx-low_level_programming/spoofed_commit_check/12f5cd773f29a3ba651c9a92c7f69fa14afed077" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/musaubrian/alx-low_level_programming/contributors/master/0x10-variadic_functions/3-print_all.c" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/musaubrian/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/musaubrian"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/94367979?s=48&amp;v=4" width="24" height="24" alt="@musaubrian" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/musaubrian/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/musaubrian">musaubrian</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="add header file" class="Link--secondary" href="/musaubrian/alx-low_level_programming/commit/93ab989fbf1c4001ca8b3e3e90341932875c2233">add header file</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/musaubrian/alx-low_level_programming/commit/93ab989fbf1c4001ca8b3e3e90341932875c2233/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/musaubrian/alx-low_level_programming/commit/93ab989fbf1c4001ca8b3e3e90341932875c2233" data-pjax>93ab989</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-04-14T12:55:49Z" class="no-wrap">Apr 14, 2022</relative-time></span>
+          </span>
+
+          <a data-pjax href="/musaubrian/alx-low_level_programming/commits/master/0x10-variadic_functions/variadic_functions.h" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/musaubrian/alx-low_level_programming/contributors-list/master/0x10-variadic_functions/variadic_functions.h" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2369,25 +2432,25 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      86 lines (79 sloc)
+      31 lines (27 sloc)
       <span class="file-info-divider"></span>
-    1.24 KB
+    689 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/musaubrian/alx-low_level_programming/raw/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/3-print_all.c" href="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/3-print_all.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/musaubrian/alx-low_level_programming/raw/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/variadic_functions.h" href="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/variadic_functions.h" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/musaubrian/alx-low_level_programming/blame/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/3-print_all.c" href="/musaubrian/alx-low_level_programming/blame/master/0x10-variadic_functions/3-print_all.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/musaubrian/alx-low_level_programming/blame/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/variadic_functions.h" href="/musaubrian/alx-low_level_programming/blame/master/0x10-variadic_functions/variadic_functions.h" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/musaubrian/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2F3-print_all.c"
+             href="x-github-client://openRepo/https://github.com/musaubrian/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2Fvariadic_functions.h"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2395,11 +2458,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/3-print_all.c" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/variadic_functions.h" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="19209a6ffb1573c05671bbc5141479a2e0cdf0538ab667c396f673afd2564662" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e2ce44d6b10293c87b5740986c14b39c53a83a148fd8a8244605ffeb5472590d" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2422,7 +2485,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/musaubrian/alx-low_level_programming/edit/master/0x10-variadic_functions/3-print_all.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IqzoFJa4unMe9P43kVwWzcCH9axa0VJm4SXXrg8QSree3e6KIHMKxHNGL5u111KrfK-ykmPc6WWWB8JI_tn_kQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/musaubrian/alx-low_level_programming/edit/master/0x10-variadic_functions/variadic_functions.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Rb2QapSKtlIfB3isBl0MdVKhmmsMwFVJRqRxohROD8UjrVj3vyXJOAiNfaPlm3RuauPPGhvtCZGLg3V0DwDRlQ" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2430,7 +2493,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/musaubrian/alx-low_level_programming/delete/master/0x10-variadic_functions/3-print_all.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G7YYX4UkRk7V2SC9KSAerBtAk28RtMqN52pFk1TVJ759eqj6p_dKWG3oJoBPis-GYGY-D0eJtf-d6oI-t--OgQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/musaubrian/alx-low_level_programming/delete/master/0x10-variadic_functions/variadic_functions.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UbsAC-Y3Fubiqfr7ygBW0vxDgSI1hG4Gfe2vtkj1KtJET0UAanCSp1EdTb9zHCOEmn8dlw8brAVYuAGblBSfzw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2452,21 +2515,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/musaubrian/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2F3-print_all.c"
+                   href="x-github-client://openRepo/https://github.com/musaubrian/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2Fvariadic_functions.h"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/3-print_all.c">
+            <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/variadic_functions.h">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/3-print_all.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/musaubrian/alx-low_level_programming/raw/master/0x10-variadic_functions/variadic_functions.h" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="19209a6ffb1573c05671bbc5141479a2e0cdf0538ab667c396f673afd2564662">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468252368,&quot;originating_url&quot;:&quot;https://github.com/musaubrian/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e2ce44d6b10293c87b5740986c14b39c53a83a148fd8a8244605ffeb5472590d">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2489,17 +2552,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/blame/master/0x10-variadic_functions/3-print_all.c">
+              <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/blame/master/0x10-variadic_functions/variadic_functions.h">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/edit/master/0x10-variadic_functions/3-print_all.c">Edit file</a>
+                <a class="dropdown-item" href="/musaubrian/alx-low_level_programming/edit/master/0x10-variadic_functions/variadic_functions.h">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/musaubrian/alx-low_level_programming/delete/master/0x10-variadic_functions/3-print_all.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/musaubrian/alx-low_level_programming/delete/master/0x10-variadic_functions/variadic_functions.h">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2537,357 +2600,134 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x10-variadic_functions/3-print_all.c">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x10-variadic_functions/variadic_functions.h">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>variadic_functions.h<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">ifndef</span> VARIADIC_FUNCTIONS_H</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">define</span> <span class="pl-en">VARIADIC_FUNCTIONS_H</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdarg.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_char - prints a char</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stddef.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: char to print</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdio.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&lt;</span>stdlib.h<span class="pl-pds">&gt;</span></span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_char</span>(<span class="pl-c1">va_list</span> a)</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">sum_them_all</span>(<span class="pl-k">const</span> <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n, ...);</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%c</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">va_arg</span>(a, <span class="pl-k">int</span>));</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">_putchar</span>(<span class="pl-k">char</span> c);</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_numbers</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *separator, <span class="pl-k">const</span> <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n, ...);</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_strings</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *separator, <span class="pl-k">const</span> <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n, ...);</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_all</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> * <span class="pl-k">const</span> format, ...);</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_int - prints an int</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: int to print</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * struct format - Finds format info.</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_int</span>(<span class="pl-c1">va_list</span> a)</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @flag: flag to format struct.</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%d</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">va_arg</span>(a, <span class="pl-k">int</span>));</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @f: Call back function.</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">typedef</span> <span class="pl-k">struct</span> format</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_float - prints a float</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *flag;</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: float to print</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">void</span> (*f)(<span class="pl-c1">va_list</span>);</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">} formatter;</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_float</span>(<span class="pl-c1">va_list</span> a)</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_int</span>(<span class="pl-c1">va_list</span>);</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%f</span><span class="pl-pds">&quot;</span></span>, <span class="pl-c1">va_arg</span>(a, <span class="pl-k">double</span>));</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_char</span>(<span class="pl-c1">va_list</span>);</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_float</span>(<span class="pl-c1">va_list</span>);</td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_string</span>(<span class="pl-c1">va_list</span>);</td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_string - prints a char</span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: string to print</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_string</span>(<span class="pl-c1">va_list</span> a)</td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *current;</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">	current = <span class="pl-c1">va_arg</span>(a, <span class="pl-k">char</span> *);</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> (current == <span class="pl-c1">NULL</span>)</td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>(nil)<span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span>;</td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span>, current);</td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_all - prints all args passed to function</span></td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @format: list of args to give data types.</span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_all</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> * <span class="pl-k">const</span> format, ...)</td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">{</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_list</span> list;</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">const</span> <span class="pl-k">char</span> *copy;</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">	formatter formats[] = {</td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>c<span class="pl-pds">&quot;</span></span>, print_char},</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>i<span class="pl-pds">&quot;</span></span>, print_int},</td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>f<span class="pl-pds">&quot;</span></span>, print_float},</td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>s<span class="pl-pds">&quot;</span></span>, print_string},</td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">		{<span class="pl-c1">NULL</span>, <span class="pl-c1">NULL</span>}</td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">	};</td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> i, j;</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *sep;</td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">	sep = <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">	i = j = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">	copy = format;</td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_start</span>(list, format);</td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (copy &amp;&amp; copy[j] != <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>)</td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">	{</td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">		i = <span class="pl-c1">0</span>;</td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">while</span> (formats[i].<span class="pl-smi">flag</span>)</td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">		{</td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">if</span> (formats[i].<span class="pl-smi">flag</span>[<span class="pl-c1">0</span>] == copy[j])</td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">			{</td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">				<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span>, sep);</td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line">				(formats[i].<span class="pl-smi">f</span>)(list);</td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line">				sep = <span class="pl-s"><span class="pl-pds">&quot;</span>, <span class="pl-pds">&quot;</span></span>;</td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line">			}</td>
-        </tr>
-        <tr>
-          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line">			i++;</td>
-        </tr>
-        <tr>
-          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line">		}</td>
-        </tr>
-        <tr>
-          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line">		j++;</td>
-        </tr>
-        <tr>
-          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">	}</td>
-        </tr>
-        <tr>
-          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_end</span>(list);</td>
-        </tr>
-        <tr>
-          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">endif</span></td>
         </tr>
   </table>
 </div>
@@ -2913,7 +2753,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/musaubrian/alx-low_level_programming/blame/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/3-print_all.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/musaubrian/alx-low_level_programming/blame/12f5cd773f29a3ba651c9a92c7f69fa14afed077/0x10-variadic_functions/variadic_functions.h">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/musaubrian/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
