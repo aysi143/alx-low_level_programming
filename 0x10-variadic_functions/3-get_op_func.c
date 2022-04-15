@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming</title>
-    <meta name="description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming">
+  <title>alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming</title>
+    <meta name="description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/052aa783933a7e6c82876320f0cd9d7c734d84e9b68623fc22d4e014854ddbf3/Selam25-30/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming" /><meta name="twitter:description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming" />
-    <meta property="og:image" content="https://opengraph.githubassets.com/052aa783933a7e6c82876320f0cd9d7c734d84e9b68623fc22d4e014854ddbf3/Selam25-30/alx-low_level_programming" /><meta property="og:image:alt" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Selam25-30/alx-low_level_programming" /><meta property="og:description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/2-print_strings.c at master · Selam25-30/alx-low_level_programming" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/052aa783933a7e6c82876320f0cd9d7c734d84e9b68623fc22d4e014854ddbf3/Selam25-30/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming" /><meta name="twitter:description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming" />
+    <meta property="og:image" content="https://opengraph.githubassets.com/052aa783933a7e6c82876320f0cd9d7c734d84e9b68623fc22d4e014854ddbf3/Selam25-30/alx-low_level_programming" /><meta property="og:image:alt" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Selam25-30/alx-low_level_programming" /><meta property="og:description" content="I&#39;m now a ALX Student, this is my repository as a full-stack engineer - alx-low_level_programming/3-get_op_func.c at master · Selam25-30/alx-low_level_programming" />
     
 
 
@@ -72,12 +72,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjoyOTY4ODg2NzIxLCJ0IjoxNjUwMDA2MjYxfQ==--1ca068e3da433e50e5a87c603dcec86213de00b05be96b4c30394cf203516d0e" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjoyNzc4Mzc0MzA0LCJ0IjoxNjUwMDA2MDU5fQ==--5d6d58ad56055237bf8105b3db75aa40a98d80adf6e01ced58b0c474078a9058" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="1775:C8FB:67834A:70A51F:625918F4" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9TZWxhbTI1LTMwL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxMC12YXJpYWRpY19mdW5jdGlvbnMiLCJyZXF1ZXN0X2lkIjoiMTc3NTpDOEZCOjY3ODM0QTo3MEE1MUY6NjI1OTE4RjQiLCJ2aXNpdG9yX2lkIjoiMTgwNjg2ODQ1NTAyNTY5MzY3NCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="632d7fda556501a53d3b33d4b255dfbbb875263a495f856f071eab8f0ac4d890" data-pjax-transient="true" />
+  <meta name="request-id" content="C1F0:EDC8:AA9541:B449AD:6259182A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9TZWxhbTI1LTMwL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgwRi1mdW5jdGlvbl9wb2ludGVycyIsInJlcXVlc3RfaWQiOiJDMUYwOkVEQzg6QUE5NTQxOkI0NDlBRDo2MjU5MTgyQSIsInZpc2l0b3JfaWQiOiIxODA2ODY4NDU1MDI1NjkzNjc0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="6c7b2cf6813344e2b1bb76fe51707d324603b0c215e256b74d79dac922ace3ba" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:468263901" data-pjax-transient>
 
@@ -113,7 +113,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NGUxNmU0NDUwZjVmZWY5Yjg0YTUxNTY4YjA5MjAzZGEwMWFjNjA0ZDRlZjQwZTc4NmZkNzU1Y2Q1MzZjYzRiOHx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiIxNzc1OkM4RkI6Njc4MzRBOjcwQTUxRjo2MjU5MThGNCIsInRpbWVzdGFtcCI6MTY1MDAwNjI2MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NTg0YWExYjQyYzhlOTc2NDJjNWQwZGE1MGJmYzc0NTg1ZTJjMDE3MGU2MzAzZjlhNWMwMjU5Njc5NTRmNWE1YXx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiJDMUYwOkVEQzg6QUE5NTQxOkI0NDlBRDo2MjU5MTgyQSIsInRpbWVzdGFtcCI6MTY1MDAwNjA1OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -132,7 +132,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -222,7 +222,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="vxqKuhsk58VRJzAMkKVfZAPRRh7_i3Tltzm9LBEkZy3hzldH42Dnjqc_6G0YaPTXgaFvzwcsilGmuMxtZYgprQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="ytbkdsvvvXZFLyt_ZUL9b6YOBdqqxtNxSngCP-kxc3eUAjmLM6u9PbM38x7tj1bcJH4sC1JhLcVb-XN-nZ099w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -421,7 +421,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="24a17f4c8f40f7ab74efc0782612b1c78e0ca6be5d3ece61378babfc819b3079" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="59b6275859edd59177cc72be491ac10304b769ef86800f1a8908e79a98d85bef" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -429,7 +429,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/49403558?s=40&amp;v=4" width="20" height="20" alt="@aysi143" />
       aysi143
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LLXyAaKblRZRxFuNGd9nwdgky3n__f9JitBx068sC-aGGZi9zpxkCAi_I_aK_jzC7AsZbMebc4pSzVMgB2iZUw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M9knXp081Jbg7tLIBlZFs0xcdyXUPKORsKhpfuEW1NeZdU3i8TsliLmVqrOVdx6weHOlMOxaL1JotUuNSVJGYg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -468,7 +468,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUwMDA2MjYxfQ==--07335697719b6b649b8dd6eebb7b18fe42e47366dd61a1149454f3ee5edf85bc">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUwMDA2MDU5fQ==--46b2b5016d421116221d78b9c09fd67f2d196ae0961916f5dac423729f1e8623">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -604,7 +604,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c
+      data-return-to=/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c
       data-user-id="49403558"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -617,10 +617,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="2tsbwrMgPyxq51ux8OnDnXboEqMYXgTbVdYIdMjQn2ehyhvk1Q5_rHQ4ZLSJvrsydfWbR_D3lKvqSmD9cKW7qQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="g_evJ5h7s_b_UVv3s00Rm-DupwVWr8P1cJZLgDd5zi745q8B_lXzduGOZPLKGmk04_Mu4b4GU4XPCiMJjwzq4A" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="M0XergktBAhaSYSyoW_zef7jVLu5PfXE4OJ39zgjpWc2FXqm6CRh0-P8yl4l4R77nkVIWVpOSe49OuVjaFiy2w" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="00AmMdx1aSR2CkkcOmmbqY5ke902Q8Cd1ue3cvO98KLWEII5PXwM_8-_B_C-53Yr7sJnP9UwfLcLPyXmo8bnHg" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1535,7 +1535,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="2741f0cb65babb69bf580d1feda836c23ba75ab75b23c1da8418c2d721c43461" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="496598ae256e1bc2223d98af43bf957bfe2af571413a15b824ba93a6d5640b3a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1588,7 +1588,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Hxol6mme9D7ZrTkCkMo9jVdL8z8xKqnLpJpfNbxWPrOBbRjz8PRGAh-bRlqC75MEP0uOwqmtxz-LJHjYMHksag" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Yu3AMHUBf66Yja7K0PJgHGhYS_QupxVbC-MTKkoM4FL8mv0p7GvNkl670ZLC186VAFg2CbYge68kXTTHxiPyiw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="468263901">
 
@@ -1706,7 +1706,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VMDOSnbcUyDZPrxaoD3s7R-ZmkE9OpVeBTLSL9SfOMHKt_NT77bhHB8IwwKyGEJkd5nnvKW9-6oqjPXCWLAqGA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0hjNMrxO-dqvXXoc7jcoegax4u5wKsQaJVw9PQSs3ANMb_ArJSRL5mlrBUT8EobzbrGfE-itqu4K4hrQiIPO2g" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="468263901">
 
@@ -1853,7 +1853,7 @@
   </li>
 
   <li>
-            <a href="/Selam25-30/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="716a90d25d194bb937213619fe67268d48607830dded5b0d18196f56c0c644a6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Selam25-30/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/Selam25-30/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="54192c72478cd800575bcd9f7bf04707249dc4f5fc1852924e58b1b848532918" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Selam25-30/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1882,19 +1882,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Selam25-30/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IWoWtcY2PYbt2uQpno1RQWqeiyn9mhx85Q3vrT13uyS6bcm600JZjfnMoeSy-gc0cbBAFnTHIgpPYw4CD95b0w" autocomplete="off" />
-        <input type="hidden" value="SP9PucU-TpKxJQ-YG-AEyPfGwM2oC7kOgYuoFUHtEkjT-JC20EoqmaUzSlU3l1K97OgL8iFWh3gr5Um6c0Tyvw" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Selam25-30/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YPxmPuJYyGhfuiQTYj9oUmAen3OJeo3OJtD04M2Z04f7-7kx9yysY0usYd5OSD4nezBUTAAns7iMvhVP_zAzcA" autocomplete="off" />
+        <input type="hidden" value="vX8NaDtcCV3x1o6QzpqnWLsJhIzFjDf0OrWgJ_6hxnYmeNJnLihtVuXAy13i7fEtoCdPs0zRCYKQ20GIzAgmgQ" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="d6bac6c5476347747c3fb2f1c04d2b4ef65abce3170e1e5fde2ad6be201d0775" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="1d8aa1df996d9686bd1e4a186696862f8000b1e7976a9b42253fee94470080ab" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Selam25-30/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mbUpGOqjs-tlZZ8I6mu4zpZZFsDFGBzTVorhG2tUuA0o36SbT6TlNcrusK3e82OO4euGMSurMkL0XUOA1Plu-g" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Selam25-30/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="k88T_pOdmlLT23dwuj_kFvyKh4PmEIhPhLXhF0jIatMipZ59NprMjHxQWNWOpz9WizgXcgijpt4mYkOM92W8JA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="3a0aed1a4fbb097cd5094cf0cbd79e029a22c1f1fc82c5a9352a744e14cdc154" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="652c09bd3b851d50768163042693cc8f4093e4e3ce7f4e7291ab830eb3a03854" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1915,13 +1915,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5374d3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3ba576">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-5374d3"
+        id="filter-menu-3ba576"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2124,7 +2124,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Selam25-30/alx-low_level_programming/blob/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x10-variadic_functions/2-print_strings.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Selam25-30/alx-low_level_programming/blob/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x0F-function_pointers/3-get_op_func.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2208,7 +2208,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Selam25-30/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/2-print_strings.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Selam25-30/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x0F-function_pointers/3-get_op_func.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2248,7 +2248,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Selam25-30/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x10-variadic_functions/2-print_strings.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Selam25-30/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x0F-function_pointers/3-get_op_func.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2279,7 +2279,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Selam25-30/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Selam25-30/alx-low_level_programming/tree/master/0x10-variadic_functions"><span>0x10-variadic_functions</span></a></span><span class="separator">/</span><strong class="final-path">2-print_strings.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Selam25-30/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Selam25-30/alx-low_level_programming/tree/master/0x0F-function_pointers"><span>0x0F-function_pointers</span></a></span><span class="separator">/</span><strong class="final-path">3-get_op_func.c</strong>
   </h2>
   <a href="/Selam25-30/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2292,7 +2292,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="fedd855b26805756fd0b94df797fe44ecec143f094037b5a6b20c622085d54a8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Selam25-30/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e3c0a8a36fe030d184e38a6a906cb537dac908249ed7a01133f1d5d4ed6896e7" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Selam25-30/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2305,13 +2305,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x10-variadic_functions/2-print_strings.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x0F-function_pointers/3-get_op_func.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Selam25-30/alx-low_level_programming/blob/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x10-variadic_functions/2-print_strings.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Selam25-30/alx-low_level_programming/blob/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x0F-function_pointers/3-get_op_func.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2343,7 +2343,7 @@
     <include-fragment src="/Selam25-30/alx-low_level_programming/spoofed_commit_check/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Selam25-30/alx-low_level_programming/contributors/master/0x10-variadic_functions/2-print_strings.c" class="commit-loader">
+  <include-fragment src="/Selam25-30/alx-low_level_programming/contributors/master/0x0F-function_pointers/3-get_op_func.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2376,25 +2376,25 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      33 lines (27 sloc)
+      29 lines (26 sloc)
       <span class="file-info-divider"></span>
-    542 Bytes
+    422 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Selam25-30/alx-low_level_programming/raw/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x10-variadic_functions/2-print_strings.c" href="/Selam25-30/alx-low_level_programming/raw/master/0x10-variadic_functions/2-print_strings.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/Selam25-30/alx-low_level_programming/raw/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x0F-function_pointers/3-get_op_func.c" href="/Selam25-30/alx-low_level_programming/raw/master/0x0F-function_pointers/3-get_op_func.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/Selam25-30/alx-low_level_programming/blame/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x10-variadic_functions/2-print_strings.c" href="/Selam25-30/alx-low_level_programming/blame/master/0x10-variadic_functions/2-print_strings.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/Selam25-30/alx-low_level_programming/blame/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x0F-function_pointers/3-get_op_func.c" href="/Selam25-30/alx-low_level_programming/blame/master/0x0F-function_pointers/3-get_op_func.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/Selam25-30/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2F2-print_strings.c"
+             href="x-github-client://openRepo/https://github.com/Selam25-30/alx-low_level_programming?branch=master&amp;filepath=0x0F-function_pointers%2F3-get_op_func.c"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2402,11 +2402,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Selam25-30/alx-low_level_programming/raw/master/0x10-variadic_functions/2-print_strings.c" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Selam25-30/alx-low_level_programming/raw/master/0x0F-function_pointers/3-get_op_func.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="193eed8d2e44d1d731cc2317219e18009b2f8ba2f05a6c6484bc08b584a1ca6e" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="2d63735269fb803a6329ac7ae84b3d4e6fbdad93a8e648a1bcaa3e72b1720b4f" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2429,7 +2429,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Selam25-30/alx-low_level_programming/edit/master/0x10-variadic_functions/2-print_strings.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qeLmahJepi1LoQw2yjHQ_50EUbWt_UX9khY9uEA7CkdIQOMei0cLk6PGfopr1gZxB6nHdDBdQ1ZJEIiPIjgRLw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Selam25-30/alx-low_level_programming/edit/master/0x0F-function_pointers/3-get_op_func.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NvltOczhaK4-c-lR1i5b_P3fYIqeDFSV2Hv6KjfYoZkjzwSs3d7XaOTxQ1sE4Zv5yFQTxStu-wqYbG4-_GrpTw" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2437,7 +2437,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Selam25-30/alx-low_level_programming/delete/master/0x10-variadic_functions/2-print_strings.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5a_AB3R3lpnnQC2D164p2fZzT-J1tcMSzlft7p0STYXNU3aU_VC8FNlmPJCDSjNHF6GCHyqrGUpJ4ilvLlnKuw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Selam25-30/alx-low_level_programming/delete/master/0x0F-function_pointers/3-get_op_func.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gLb1hI2R_wghrer2LHbCUBmBJGQsi_Nx05tIf3ffqbj-9Lp-SvO2DUAU7LEpm4xHyjCffB2AY9YmMyofvYDoqg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2459,21 +2459,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Selam25-30/alx-low_level_programming?branch=master&amp;filepath=0x10-variadic_functions%2F2-print_strings.c"
+                   href="x-github-client://openRepo/https://github.com/Selam25-30/alx-low_level_programming?branch=master&amp;filepath=0x0F-function_pointers%2F3-get_op_func.c"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/raw/master/0x10-variadic_functions/2-print_strings.c">
+            <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/raw/master/0x0F-function_pointers/3-get_op_func.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Selam25-30/alx-low_level_programming/raw/master/0x10-variadic_functions/2-print_strings.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Selam25-30/alx-low_level_programming/raw/master/0x0F-function_pointers/3-get_op_func.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="193eed8d2e44d1d731cc2317219e18009b2f8ba2f05a6c6484bc08b584a1ca6e">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468263901,&quot;originating_url&quot;:&quot;https://github.com/Selam25-30/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="2d63735269fb803a6329ac7ae84b3d4e6fbdad93a8e648a1bcaa3e72b1720b4f">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2496,17 +2496,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/blame/master/0x10-variadic_functions/2-print_strings.c">
+              <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/blame/master/0x0F-function_pointers/3-get_op_func.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/edit/master/0x10-variadic_functions/2-print_strings.c">Edit file</a>
+                <a class="dropdown-item" href="/Selam25-30/alx-low_level_programming/edit/master/0x0F-function_pointers/3-get_op_func.c">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Selam25-30/alx-low_level_programming/delete/master/0x10-variadic_functions/2-print_strings.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Selam25-30/alx-low_level_programming/delete/master/0x0F-function_pointers/3-get_op_func.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2544,10 +2544,10 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x10-variadic_functions/2-print_strings.c">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x0F-function_pointers/3-get_op_func.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>variadic_functions.h<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>3-calc.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
@@ -2560,128 +2560,109 @@
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * print_strings - prints strings</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* get_op_func - returns pointer to right op func</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @separator: separator between strings</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* @s: string operator</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @n: number of arguments</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* Return: the right function pointer</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">print_strings</span>(<span class="pl-k">const</span> <span class="pl-k">char</span> *separator, <span class="pl-k">const</span> <span class="pl-k">unsigned</span> <span class="pl-k">int</span> n, ...)</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> (*<span class="pl-en">get_op_func</span>(<span class="pl-k">char</span> *s))(<span class="pl-k">int</span>, <span class="pl-k">int</span>)</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">unsigned</span> <span class="pl-k">int</span> i;</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">{</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">char</span> *str;</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">op_t</span> ops[] = {</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>+<span class="pl-pds">&quot;</span></span>, op_add},</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_list</span> list;</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>-<span class="pl-pds">&quot;</span></span>, op_sub},</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>*<span class="pl-pds">&quot;</span></span>, op_mul},</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_start</span>(list, n);</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>/<span class="pl-pds">&quot;</span></span>, op_div},</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">		{<span class="pl-s"><span class="pl-pds">&quot;</span>%<span class="pl-pds">&quot;</span></span>, op_mod},</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> (i = <span class="pl-c1">0</span>; i &lt; n; i++)</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">		{<span class="pl-c1">NULL</span>, <span class="pl-c1">NULL</span>}</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">	{</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">	};</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">		str = <span class="pl-c1">va_arg</span>(list, <span class="pl-k">char</span> *);</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> i = <span class="pl-c1">0</span>;</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (!str)</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">			str = <span class="pl-s"><span class="pl-pds">&quot;</span>(nil)<span class="pl-pds">&quot;</span></span>;</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (i &lt; <span class="pl-c1">5</span>)</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (!separator)</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	{</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span>, str);</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (s &amp;&amp; s[<span class="pl-c1">0</span>] == ops[i].<span class="pl-smi">op</span>[<span class="pl-c1">0</span>] &amp;&amp; !s[<span class="pl-c1">1</span>])</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span> <span class="pl-k">if</span> (separator &amp;&amp; i == <span class="pl-c1">0</span>)</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">return</span> (ops[i].<span class="pl-smi">f</span>);</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span>, str);</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">		i++;</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	}</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-c1">%s%s</span><span class="pl-pds">&quot;</span></span>, separator, str);</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">	}</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (<span class="pl-c1">NULL</span>);</td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">printf</span>(<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>);</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">va_end</span>(list);</td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2707,7 +2688,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Selam25-30/alx-low_level_programming/blame/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x10-variadic_functions/2-print_strings.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Selam25-30/alx-low_level_programming/blame/618c700ce8ec7d9ba3f2ba2231ccdf179795ce97/0x0F-function_pointers/3-get_op_func.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Selam25-30/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
