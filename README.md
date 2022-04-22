@@ -20,7 +20,7 @@ This repository contains programs written for the low-level programming.
 
 ## Author :Ethiopian Programmer (IC):
 
-*Aysanew Yonas(IC)__ <[aysi143](https://github.com/aysi143)>
+**Aysanew Yonas(IC)**__ [aysi143](https://github.com/aysi143)
 
 ## Acknowledgements :pray:
 
