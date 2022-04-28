@@ -59,14 +59,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/0-binary_to_uint.c at master · Tolulope05/alx-low_level_programming</title>
-    <meta name="description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub.">
+  <title>alx-low_level_programming/0-binary_to_uint.c at master · calebapril/alx-low_level_programming</title>
+    <meta name="description" content="C - Hello, World. Contribute to calebapril/alx-low_level_programming development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/dd8f54a9fd5613c98a8b00091e3e7fb07c47854b63bc6177df8a61bbc2aca9c3/Tolulope05/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/0-binary_to_uint.c at master · Tolulope05/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/dd8f54a9fd5613c98a8b00091e3e7fb07c47854b63bc6177df8a61bbc2aca9c3/Tolulope05/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/0-binary_to_uint.c at master · Tolulope05/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Tolulope05/alx-low_level_programming" /><meta property="og:description" content="Contribute to Tolulope05/alx-low_level_programming development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/95ad1cd207736825e0ba232f6ef77334bef9ab6d2130d36d0df0b396de477675/calebapril/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/0-binary_to_uint.c at master · calebapril/alx-low_level_programming" /><meta name="twitter:description" content="C - Hello, World. Contribute to calebapril/alx-low_level_programming development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/95ad1cd207736825e0ba232f6ef77334bef9ab6d2130d36d0df0b396de477675/calebapril/alx-low_level_programming" /><meta property="og:image:alt" content="C - Hello, World. Contribute to calebapril/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/0-binary_to_uint.c at master · calebapril/alx-low_level_programming" /><meta property="og:url" content="https://github.com/calebapril/alx-low_level_programming" /><meta property="og:description" content="C - Hello, World. Contribute to calebapril/alx-low_level_programming development by creating an account on GitHub." />
     
 
 
@@ -74,14 +74,14 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjoyNDM5Mjc5NDYsInQiOjE2NTExNzI4OTN9--fb4fb3ae18602709b0b912d13c9149b432c687ad5eaa6011a3e980a3d0f06273" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjo3NDEyMjIwNTEsInQiOjE2NTExNzMxMjR9--3cea1c3742fea7b2491791940e3cc7c6b883c8aae3c14cffcf433a19e657dec4" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="D3AD:AC57:C6E48:D33E7:626AE61C" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Ub2x1bG9wZTA1L2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxNC1iaXRfbWFuaXB1bGF0aW9uIiwicmVxdWVzdF9pZCI6IkQzQUQ6QUM1NzpDNkU0ODpEMzNFNzo2MjZBRTYxQyIsInZpc2l0b3JfaWQiOiIxODA2ODY4NDU1MDI1NjkzNjc0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="e0bcce854fc1334a0d5d5fa6cda2dba9a94c82efe44ee18c867a245880f21364" data-pjax-transient="true" />
+  <meta name="request-id" content="B346:5847:EB23A:F8A45:626AE704" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYWxlYmFwcmlsL2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxNC1iaXRfbWFuaXB1bGF0aW9uIiwicmVxdWVzdF9pZCI6IkIzNDY6NTg0NzpFQjIzQTpGOEE0NTo2MjZBRTcwNCIsInZpc2l0b3JfaWQiOiIxODA2ODY4NDU1MDI1NjkzNjc0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="7ae68e9a886ccc76ee28df08b0a1773c86757440a05a701b659f7449cca3ef77" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:468421117" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:468327544" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -115,7 +115,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NjEyMTBkY2EwY2QxNTE2NDcxZDliZDBjZDM5NGVlMGE0ZGYzMGQ1M2NmYTY2MzAwNDJjNDE1OTY2MGY2MTJmYnx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiJEM0FEOkFDNTc6QzZFNDg6RDMzRTc6NjI2QUU2MUMiLCJ0aW1lc3RhbXAiOjE2NTExNzI4OTMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YzVkM2E5OTE1OTQyMjNhODI2YWZlOGU2ZDFjMjk1MDU5MGY0MjQyNTc0YzhhNzZiNzI0ZmQ3Mjg5ODczYmE1OHx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiJCMzQ2OjU4NDc6RUIyM0E6RjhBNDU6NjI2QUU3MDQiLCJ0aW1lc3RhbXAiOjE2NTExNzMxMjQsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,COMMAND_PALETTE_PJAX_DISABLED,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -128,13 +128,13 @@
   
 
     
-  <meta name="go-import" content="github.com/Tolulope05/alx-low_level_programming git https://github.com/Tolulope05/alx-low_level_programming.git">
+  <meta name="go-import" content="github.com/calebapril/alx-low_level_programming git https://github.com/calebapril/alx-low_level_programming.git">
 
-  <meta name="octolytics-dimension-user_id" content="97342222" /><meta name="octolytics-dimension-user_login" content="Tolulope05" /><meta name="octolytics-dimension-repository_id" content="468421117" /><meta name="octolytics-dimension-repository_nwo" content="Tolulope05/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="468421117" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Tolulope05/alx-low_level_programming" />
+  <meta name="octolytics-dimension-user_id" content="65078408" /><meta name="octolytics-dimension-user_login" content="calebapril" /><meta name="octolytics-dimension-repository_id" content="468327544" /><meta name="octolytics-dimension-repository_nwo" content="calebapril/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="468327544" /><meta name="octolytics-dimension-repository_network_root_nwo" content="calebapril/alx-low_level_programming" />
 
 
 
-    <link rel="canonical" href="https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -203,7 +203,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="468421117" data-scoped-search-url="/Tolulope05/alx-low_level_programming/search" data-owner-scoped-search-url="/users/Tolulope05/search" data-unscoped-search-url="/search" data-turbo="false" action="/Tolulope05/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="468327544" data-scoped-search-url="/calebapril/alx-low_level_programming/search" data-owner-scoped-search-url="/users/calebapril/search" data-unscoped-search-url="/search" data-turbo="false" action="/calebapril/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -224,7 +224,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Eqa98wQqDNPMHsOTXEYMqPQ4qZevzuBsUnSMeT9J_RNMcmAO_G4MmDoGG_LUi6cbdkiARldpHthD9f04S-Wzkw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="WqyvhkaoXaTRwQicmhie59-ynC5OGisTH0Nw0whgDgkEeHJ7vuxd7yfZ0P0S1TVUXcK1_7a91acOwgGSfMxAiQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -423,7 +423,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="28df87b372db2968ac0e6fff966d0c0effd220ec8950f845f44801972c230015" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="b6a8096e5960aa53c85e8c86a9a83725ccc6058ee2893fcb956fc6955635cef0" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -431,7 +431,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/49403558?s=40&amp;v=4" width="20" height="20" alt="@aysi143" />
       aysi143
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i84gXSs3QUcB04K-zfJRlwgVeNO-UJWBjJ0z4aFzzsAhYkrhRzCwWVio-sVe0wqUPDqqxoY2GUJUgBESCTdcdQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="32nfCbDRCsd153FMS7zJ4EZaw4ct5mCuY9Esgo9-Jx91xbW13Nb72SycCTfYnZLjcnURkhWA7G27zA5xJzq1qg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -470,7 +470,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUxMTcyODkzfQ==--349daff9333c25ff0f7a3ae80586348ef8d1e27ca180569305fa0cc5bbc40600">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUxMTczMTI0fQ==--9a533a92f597610df896b2487d43f5b0377e5555d26a6525ac23294c1f0487ca">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -608,7 +608,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c
+      data-return-to=/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c
       data-user-id="49403558"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -621,10 +621,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="tohUA6b_-LATXpWn3oBWGhKyQ11PKsG9JZC0zXihe7PNmVQlwNG4MA2BqqKn1y61Ea_KuaeDUc2aDNxEwNRffQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="riHMvUZPULAKEkNdaz364W3VXIJbq8dNHf4xeg2CP-bVMMybIGEQMBTNfFgSaoJObsjVZrMCVz2iYlnztfcbKA" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="_UJckeCR49mCAegnpOiQe1KT0PL22bD2dDdMENyVPYL4EviZAZiGAju0pssgZn35MjXMEBWqDNyp796EjO4qPg" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="sy4JALpQSTyd2s8waguCuqyTckYIW15ajbHDTRd2L4K2fq0IW1ks5yRvgdzuhW84zDVupOso4nBQaVHZRw04Pg" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -715,17 +715,17 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="Tolulope05"
-                data-id="U_kgDOBc1TDg"
+                data-text="calebapril"
+                data-id="MDQ6VXNlcjY1MDc4NDA4"
                 data-type="owner"
-                data-value="Tolulope05"
+                data-value="calebapril"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >Tolulope05<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >calebapril<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
                 data-text="alx-low_level_programming"
-                data-id="R_kgDOG-uJ_Q"
+                data-id="R_kgDOG-oceA"
                 data-type="repository"
                 data-value="alx-low_level_programming"
                 data-targets="command-palette-scope.tokens"
@@ -1486,7 +1486,7 @@
 </div>
 
         <command-palette-pjax-metadata hidden class="js-command-palette-pjax-metadata" data-pjax-replace id="command-palette-pjax-metadata"
-  data-default-scope-id="R_kgDOG-uJ_Q"
+  data-default-scope-id="R_kgDOG-oceA"
   data-default-scope-type="Repository"
 >
 </command-palette-pjax-metadata>
@@ -1519,11 +1519,11 @@
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
 </svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Tolulope05/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Tolulope05">Tolulope05</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/calebapril/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/calebapril">calebapril</a>
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming">alx-low_level_programming</a>
+    <a data-pjax="#repo-content-pjax-container" href="/calebapril/alx-low_level_programming">alx-low_level_programming</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1546,7 +1546,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e76eb0837f676c2d65d1436809032bcdd54c4326a386ddd8f557c7377bc376a0" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="000b909174735578d0d2514ccab044d65360f082395b49ae3692fa7bc9f71b23" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1599,9 +1599,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JJybim6wz5Xxr8OqGcv7KRJMdO9yUY_Xp08UITpdTGy666aT99p9qTeZvPIL7lWgekwJEurW4SOI8TPMtnJetQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GfFpecec7ekk9inJLHwqyOWJwoP7V_nYcH3Kr8FcBhmHhlRgXvZf1eLAVpE-WYRBjYm_fmPQlyxfw-1CTXMUwA" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="468421117">
+                <input type="hidden" name="repository_id" value="468327544">
 
                 <button
                   type="submit"
@@ -1717,9 +1717,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TGs-B568oVxrzsT0LC5SfTg2BMiApJu5JbY4ENJKsD3SHAMeB9YTYK34u6w-C_z0UDZ5NRgj9U0KCB_9XmWi5A" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KNes6rDDvkFYtVnQSSc8h0s4jaB6Ia_JC0B0T4gWo_K2oJHzKakMfZ6DJohbApIOIzjwXeKmwT0k_lOiBDmxKw" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="468421117">
+              <input type="hidden" name="repository_id" value="468327544">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1864,10 +1864,10 @@
   </li>
 
   <li>
-            <a href="/Tolulope05/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="cda64b2dfffb2decaae9aa47da2f620e2cc1b6663c26f4fbd766fadc13b439f9" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Tolulope05/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/calebapril/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="31895552a369902f38c1550e1dd341f6feb86dfe87fcdefe1cb9ac67f2c300c2" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of calebapril/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" title="38" data-view-component="true" class="Counter">38</span>
+          <span id="repo-network-counter" data-pjax-replace="true" title="45" data-view-component="true" class="Counter">45</span>
   
 </a>
   </li>
@@ -1893,26 +1893,26 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Tolulope05/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pXtMQH9oRZ7bR69IsV_nb_IQZaYXsvAMoVzx9d-z0LZfkVwGtqCu_J4kgdFpI2DWMWIXN6b0-FIkrxDtsjRpTA" autocomplete="off" />
-        <input type="hidden" value="QhPTSLDwExUuXfNrDdQH9J3I3Yt8UYxSUJV-5jljxse4-cMOeTj4d2s-3fLVqIBNXrqvGs0XhAzVZp_-VOR_PQ" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/calebapril/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ErErqgI9VAFeWSvnosHtUNgzWL5_76Jz7Cnww2VZuzvsoxM3dHV-JhdpdrIn2O5OY7tGgpY-yM9CMLqbJqTPHg" autocomplete="off" />
+        <input type="hidden" value="vR29idtfv-7nE_pJ26OGfCj2mqJNxnMTbck2S7nzqkJDD4UUrReVya4jpxxeuoVik36EnqQXGa_D0HwT-g7eZw" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="36f2cc5afb22feb5086733a004591b5bca7f2198b410e77eaa809e7e05e91c65" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="3dcbbec445d5993a6a1ff11c8c533944a7e546865e2a5937bda66cea453199f0" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
-</span>          <span id="repo-stars-counter-unstar" aria-label="10 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="10" data-view-component="true" class="Counter js-social-count">10</span>
+</span>          <span id="repo-stars-counter-unstar" aria-label="6 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="6" data-view-component="true" class="Counter js-social-count">6</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Tolulope05/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lUzqL-10UEwD5JuM7xXIhjV96zv8kootCDcI1A0pauleAvSOJ2plfZCxiUeRxyNMWZg7tcm_uqSXwJr3X1dFjg" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/calebapril/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YY9ZDdbmRlrIBEdDJsGPk6PqJ7BYOWEAiM7kwzJ1PEFJ4M17SBpdEkCcQ9bGjXh1CP2y9sk57pAhkXd4NZ_vWg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="464b88b9d2682acafce67019ce3a450663e473d287b7e2081b3f70c667880f02" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="5d7ff9dc0a45b1f663781e5d063ad675a2f96ae3496990b1fac5e76d90ac84e7" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="10 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="10" data-view-component="true" class="Counter js-social-count">10</span>
+</span>          <span id="repo-stars-counter-star" aria-label="6 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="6" data-view-component="true" class="Counter js-social-count">6</span>
   
 </button></form>
-      <details id="details-user-list-468421117" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-user-list-468327544" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1920,19 +1920,19 @@
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Tolulope05/alx-low_level_programming/lists"
+      src="/calebapril/alx-low_level_programming/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5b2138">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-d9fccb">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-5b2138"
+        id="filter-menu-d9fccb"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1969,7 +1969,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Tolulope05/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Tolulope05/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/calebapril/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /calebapril/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -1981,7 +1981,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Tolulope05/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Tolulope05/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/calebapril/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /calebapril/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -1993,7 +1993,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Tolulope05/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Tolulope05/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/calebapril/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /calebapril/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2005,7 +2005,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Tolulope05/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Tolulope05/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/calebapril/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /calebapril/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2017,7 +2017,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Tolulope05/alx-low_level_programming/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Tolulope05/alx-low_level_programming/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/calebapril/alx-low_level_programming/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /calebapril/alx-low_level_programming/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2029,7 +2029,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/Tolulope05/alx-low_level_programming/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Tolulope05/alx-low_level_programming/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/calebapril/alx-low_level_programming/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /calebapril/alx-low_level_programming/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2041,18 +2041,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Tolulope05/alx-low_level_programming/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Tolulope05/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/calebapril/alx-low_level_programming/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /calebapril/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/Tolulope05/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/calebapril/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Tolulope05/alx-low_level_programming/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Tolulope05/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/calebapril/alx-low_level_programming/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /calebapril/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -2076,35 +2076,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Tolulope05/alx-low_level_programming" href="/Tolulope05/alx-low_level_programming">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /calebapril/alx-low_level_programming" href="/calebapril/alx-low_level_programming">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Tolulope05/alx-low_level_programming/issues" href="/Tolulope05/alx-low_level_programming/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /calebapril/alx-low_level_programming/issues" href="/calebapril/alx-low_level_programming/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Tolulope05/alx-low_level_programming/pulls" href="/Tolulope05/alx-low_level_programming/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /calebapril/alx-low_level_programming/pulls" href="/calebapril/alx-low_level_programming/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Tolulope05/alx-low_level_programming/actions" href="/Tolulope05/alx-low_level_programming/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /calebapril/alx-low_level_programming/actions" href="/calebapril/alx-low_level_programming/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Tolulope05/alx-low_level_programming/projects?type=beta" href="/Tolulope05/alx-low_level_programming/projects?type=beta">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /calebapril/alx-low_level_programming/projects?type=beta" href="/calebapril/alx-low_level_programming/projects?type=beta">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Tolulope05/alx-low_level_programming/wiki" href="/Tolulope05/alx-low_level_programming/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /calebapril/alx-low_level_programming/wiki" href="/calebapril/alx-low_level_programming/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Tolulope05/alx-low_level_programming/security" href="/Tolulope05/alx-low_level_programming/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /calebapril/alx-low_level_programming/security" href="/calebapril/alx-low_level_programming/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Tolulope05/alx-low_level_programming/pulse" href="/Tolulope05/alx-low_level_programming/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /calebapril/alx-low_level_programming/pulse" href="/calebapril/alx-low_level_programming/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -2135,7 +2135,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Tolulope05/alx-low_level_programming/blob/5fd9a836586c3d96e268358fc355a783aee76cc9/0x14-bit_manipulation/0-binary_to_uint.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/calebapril/alx-low_level_programming/blob/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1/0x14-bit_manipulation/0-binary_to_uint.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2191,12 +2191,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/Tolulope05/alx-low_level_programming/refs"
+            query-endpoint="/calebapril/alx-low_level_programming/refs"
             
-            cache-key="v0:1646929841.3457122"
+            cache-key="v0:1646918186.333025"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="VG9sdWxvcGUwNS9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
+            name-with-owner="Y2FsZWJhcHJpbC9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
             prefetch-on-mouseover
           >
 
@@ -2219,7 +2219,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/calebapril/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2229,7 +2229,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/Tolulope05/alx-low_level_programming/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/calebapril/alx-low_level_programming/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2243,11 +2243,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/Tolulope05/alx-low_level_programming/refs"
-            cache-key="v0:1646929841.3457122"
+            query-endpoint="/calebapril/alx-low_level_programming/refs"
+            cache-key="v0:1646918186.333025"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="VG9sdWxvcGUwNS9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
+            name-with-owner="Y2FsZWJhcHJpbC9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5n"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2259,7 +2259,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Tolulope05/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/calebapril/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2277,7 +2277,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/Tolulope05/alx-low_level_programming/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/calebapril/alx-low_level_programming/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2290,9 +2290,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Tolulope05/alx-low_level_programming/tree/master/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">0-binary_to_uint.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/calebapril/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/calebapril/alx-low_level_programming/tree/master/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">0-binary_to_uint.c</strong>
   </h2>
-  <a href="/Tolulope05/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
+  <a href="/calebapril/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
@@ -2303,7 +2303,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="d94d35767395c46c43563a46e54f4d065f76f55a15944556fbb15ed4a50a20c6" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Tolulope05/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="6f6e5b4aa70813cc01333b67e1179fd5eb5686add6e8ce07085c07e48f067a08" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/calebapril/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2322,7 +2322,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Tolulope05/alx-low_level_programming/blob/5fd9a836586c3d96e268358fc355a783aee76cc9/0x14-bit_manipulation/0-binary_to_uint.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/calebapril/alx-low_level_programming/blob/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1/0x14-bit_manipulation/0-binary_to_uint.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2351,20 +2351,83 @@
   
 </div></div>
 
-    <include-fragment src="/Tolulope05/alx-low_level_programming/spoofed_commit_check/5fd9a836586c3d96e268358fc355a783aee76cc9" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/calebapril/alx-low_level_programming/spoofed_commit_check/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Tolulope05/alx-low_level_programming/contributors/master/0x14-bit_manipulation/0-binary_to_uint.c" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/calebapril/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/calebapril"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/65078408?s=48&amp;v=4" width="24" height="24" alt="@calebapril" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/calebapril/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/calebapril">calebapril</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="first commit" class="Link--secondary" href="/calebapril/alx-low_level_programming/commit/4dfa93086301cb90af02e4d0ba5681402d8be7c3">first commit</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/calebapril/alx-low_level_programming/commit/4dfa93086301cb90af02e4d0ba5681402d8be7c3/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/calebapril/alx-low_level_programming/commit/4dfa93086301cb90af02e4d0ba5681402d8be7c3" data-pjax>4dfa930</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-04-28T14:01:17Z" class="no-wrap">Apr 28, 2022</relative-time></span>
+          </span>
+
+          <a data-pjax href="/calebapril/alx-low_level_programming/commits/master/0x14-bit_manipulation/0-binary_to_uint.c" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/calebapril/alx-low_level_programming/contributors-list/master/0x14-bit_manipulation/0-binary_to_uint.c" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2387,8 +2450,6 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      <span class="file-mode" title="File mode">executable file</span>
-      <span class="file-info-divider"></span>
       37 lines (30 sloc)
       <span class="file-info-divider"></span>
     488 Bytes
@@ -2398,16 +2459,16 @@
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Tolulope05/alx-low_level_programming/raw/5fd9a836586c3d96e268358fc355a783aee76cc9/0x14-bit_manipulation/0-binary_to_uint.c" href="/Tolulope05/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/calebapril/alx-low_level_programming/raw/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1/0x14-bit_manipulation/0-binary_to_uint.c" href="/calebapril/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/Tolulope05/alx-low_level_programming/blame/5fd9a836586c3d96e268358fc355a783aee76cc9/0x14-bit_manipulation/0-binary_to_uint.c" href="/Tolulope05/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/calebapril/alx-low_level_programming/blame/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1/0x14-bit_manipulation/0-binary_to_uint.c" href="/calebapril/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/Tolulope05/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
+             href="x-github-client://openRepo/https://github.com/calebapril/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2415,11 +2476,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Tolulope05/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/calebapril/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="5c698e622fe669384cbd088aad3696eb1c4503952b77172c1ac383ddcf9f8da2" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="1c4d5d0698e602d1a1450ab6a1ba4f01af4a7c7287b603227a53be2cb412731d" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2442,7 +2503,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Tolulope05/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sCyOvkDQs57-S1hxatyApohCBSp3rFuIXz9M1HLoZioyRSpAbrXl6HjdoQgGw-ra5vaR6HUHuayvpSShLsFfYg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/calebapril/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="60PcowuzbbQWJ9G5E0FO7ZVHrZAwNWkmkcsqXPWOOBmk6UT3l5jrNXCVV55QvIGle9R7DnKyTz90jWsS-VKQYw" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2450,7 +2511,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Tolulope05/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mXmwRWrx2hxxnBRjRebjikPH_OSS-ZvQefCfOueBLxEX1Kyoy02N4U50La2PiXgNa7BXiRKFF31s92e_ERkTbw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/calebapril/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="y-Eo7M1ALbLbjXKh2qp6-jJQxkrMB3NdIBDd9louc7vL7eloEnH5EkE8H1jpqGrf_DyhuHzDpBiIfJqXN2QXdw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2472,21 +2533,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Tolulope05/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
+                   href="x-github-client://openRepo/https://github.com/calebapril/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c">
+            <a class="dropdown-item" href="/calebapril/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Tolulope05/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/calebapril/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468421117,&quot;originating_url&quot;:&quot;https://github.com/Tolulope05/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="5c698e622fe669384cbd088aad3696eb1c4503952b77172c1ac383ddcf9f8da2">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468327544,&quot;originating_url&quot;:&quot;https://github.com/calebapril/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="1c4d5d0698e602d1a1450ab6a1ba4f01af4a7c7287b603227a53be2cb412731d">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2509,17 +2570,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c">
+              <a class="dropdown-item" href="/calebapril/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Tolulope05/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c">Edit file</a>
+                <a class="dropdown-item" href="/calebapril/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Tolulope05/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/calebapril/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2737,8 +2798,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Tolulope05/alx-low_level_programming/blame/5fd9a836586c3d96e268358fc355a783aee76cc9/0x14-bit_manipulation/0-binary_to_uint.c">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Tolulope05/alx-low_level_programming/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/calebapril/alx-low_level_programming/blame/ad9e7bdfa9494fc5f30dd6bfc904c7e5d6dec5f1/0x14-bit_manipulation/0-binary_to_uint.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/calebapril/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
