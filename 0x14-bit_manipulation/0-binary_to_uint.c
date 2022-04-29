@@ -21,9 +21,9 @@
     <link crossorigin="anonymous" media="all" integrity="sha512-8im77z2MdqUUPARZbbz1zkghHLMsjB3rXhDup7ppdlbkXCYIJC78ff6fg0Cl5JMokSXGkCOY3XmzGerbGkSQ6w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-f229bbef3d8c.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-HkEX8QA7jvh4C7f6L0A7+z0LHvDjg23dXGTtxBs+8HcHeXeIR97yvqc1osx0T0qlH5ESTb2qkcknE1ciVpr/4Q==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-1e4117f1003b.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-Ux9QZU7TvLcaSH5A5CGr03qiY3mUnVgxdhMVR/dw+wSdKlSkiIXn8DYE2qqSB9TCo49Ug2pVYWQ7BFLTatq9Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/blob-531f50654ed3.css" />
-<link crossorigin="anonymous" media="all" integrity="sha512-JFpvWFXXeFTndt9khfsyT5E6i38D5okXgZyyduXcfJS0eOw24sQJ4O/mY8ezRknLBiWRFeWRhkcOuAeh1RFvDg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-245a6f5855d7.css" />
+<link crossorigin="anonymous" media="all" integrity="sha512-wvuLGnVazm5iH3bss21RoQDcLRqNLJIFyky2o8ZcEloPkE6yQswrk4UJlDwSUmZ0OY95/ZVJjpRWEfSJYpxCQg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-c2fb8b1a755a.css" />
 
-    <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}], &quot;revision&quot;: &quot;1180&quot;}" />
+    <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}], &quot;revision&quot;: &quot;1181&quot;}" />
 
 
   <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LJ/R13BoFv4XrOb1GFaDiEX4lplXc1aZUVybGaMe0RI5hVweKy1zYvSXRAItDGHXz6bKA2CHbdlxqsQVA+7Ddg==" src="https://github.githubassets.com/assets/runtime-2c9fd1d77068.js"></script>
@@ -44,7 +44,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-avY7kgWZi20dcW5UgNkiKrgbOKvJGW0kArbkQcA9MWQx0SRjJv4JcKHNdMN3o6ML+inGPd8ib1+nJECF5VJ5Kw==" src="https://github.githubassets.com/assets/3826-6af63b920599.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-a4WgZYeVc2aKrHPyOfYm6uY7Vcw96gOwHqRhs6hkNqnhHJuZC4f94uvcomE6JS3HhgCVZTQpvU8PgucLwSkteg==" src="https://github.githubassets.com/assets/5222-6b85a0658795.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-XrU5iELtQSSz5e+xv08TibnOi4mPUjcpZ+15cFMR3IghxHuI0P7H0pZm+mHCrj4C1PkpM3G7SdSV+0ST9mCNQA==" src="https://github.githubassets.com/assets/716-5eb5398842ed.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-0tmoc67YyfTu9gu8/RILv01DBkJWYiwVPYwB3ICOSEaIiYJ+IQA1Vhvqi8xLZyGHpve5e0Jk2379bdzgSanE3A==" src="https://github.githubassets.com/assets/behaviors-d2d9a873aed8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-alxnFxqcDQc5yRmSB6vXNfv58fQt6dIn0usyDT6bO38NIRhirliJRQucABo7CiS/jsMAPeWRosHDnjMsBl82dg==" src="https://github.githubassets.com/assets/behaviors-6a5c67171a9c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-nZpgXrBvHm7YePk3m1UhdxY43Ra8lTPxsGk7ocBtGBimPanKdybEgnPXXulh7k7tNLnPzPXFEJ5wY7QGowGOdw==" src="https://github.githubassets.com/assets/7749-9d9a605eb06f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KKLG+hE5uCMJHxwocsH3WQNYzT3qftRjkNe7L0b5aOMgoS5iT5oWDIwhiy38adTWwg6xdomYeWvi2+wQBjOBAg==" src="https://github.githubassets.com/assets/notifications-global-28a2c6fa1139.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-mtT9iVgsUhg4qtuOE5GJvqGIBqmqE/Z2yjYYscUmNVQNnf+Cx9Y+mLAfgrHb8o2MSIQO3XDxZ3FBhpfpuw5cMw==" src="https://github.githubassets.com/assets/4978-9ad4fd89582c.js"></script>
@@ -59,14 +59,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>alx-low_level_programming/0-binary_to_uint.c at master · adexino0606/alx-low_level_programming</title>
-    <meta name="description" content="Contribute to adexino0606/alx-low_level_programming development by creating an account on GitHub.">
+  <title>alx-low_level_programming/0-binary_to_uint.c at main · Debsh/alx-low_level_programming</title>
+    <meta name="description" content="Contribute to Debsh/alx-low_level_programming development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/d4a2da437f349257aae0b111dad2c362f74f3a970aab948f42c5788720a0a455/adexino0606/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/0-binary_to_uint.c at master · adexino0606/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to adexino0606/alx-low_level_programming development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/d4a2da437f349257aae0b111dad2c362f74f3a970aab948f42c5788720a0a455/adexino0606/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to adexino0606/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/0-binary_to_uint.c at master · adexino0606/alx-low_level_programming" /><meta property="og:url" content="https://github.com/adexino0606/alx-low_level_programming" /><meta property="og:description" content="Contribute to adexino0606/alx-low_level_programming development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/fd6572677314c72602ae3ad21e48f9f26fbb05bf604fe4e306ca285c62b4401f/Debsh/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/0-binary_to_uint.c at main · Debsh/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Debsh/alx-low_level_programming development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/fd6572677314c72602ae3ad21e48f9f26fbb05bf604fe4e306ca285c62b4401f/Debsh/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Debsh/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/0-binary_to_uint.c at main · Debsh/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Debsh/alx-low_level_programming" /><meta property="og:description" content="Contribute to Debsh/alx-low_level_programming development by creating an account on GitHub." />
     
 
 
@@ -74,14 +74,14 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjo0MTExNzIzMDAwLCJ0IjoxNjUxMTczMjY5fQ==--dc80dc725c2c487cb3e3e52ce0da2179e16863e02739ea8bee85108ea7d6c47f" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/49403558/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTQwMzU1OCwicyI6Nzk0NTYzNTc5LCJjIjoyNzA0MzkyNjM1LCJ0IjoxNjUxMjM2NTQ5fQ==--9e56500f2933a41ed25c0c2180871afd631218b76bbd36656aa611503eab3fbb" data-refresh-url="/_alive" data-session-id="3036403cf2813bac63a4c44dd6d5eb579b5a18383ef2473d77cd872962628919">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="8859:F092:9BD21:A8E68:626AE795" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hZGV4aW5vMDYwNi9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5nL3RyZWUvbWFzdGVyLzB4MTQtYml0X21hbmlwdWxhdGlvbiIsInJlcXVlc3RfaWQiOiI4ODU5OkYwOTI6OUJEMjE6QThFNjg6NjI2QUU3OTUiLCJ2aXNpdG9yX2lkIjoiMTgwNjg2ODQ1NTAyNTY5MzY3NCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="499970c74b924daae33dc3c1cf7334f8888dc55a03cf9fbd78c66e39c8a7ba8f" data-pjax-transient="true" />
+  <meta name="request-id" content="1A9C:57FF:9F1170:ACBA3E:626BDEC5" data-pjax-transient="true" /><meta name="html-safe-nonce" content="10278f0502f9c19deabdad2f94ef3bd547f05a7c5b5d9797cbd3e9a740aa0837" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EZWJzaC9hbHgtbG93X2xldmVsX3Byb2dyYW1taW5nL3RyZWUvbWFpbi8weDE0LWJpdF9tYW5pcHVsYXRpb24iLCJyZXF1ZXN0X2lkIjoiMUE5Qzo1N0ZGOjlGMTE3MDpBQ0JBM0U6NjI2QkRFQzUiLCJ2aXNpdG9yX2lkIjoiMTgwNjg2ODQ1NTAyNTY5MzY3NCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="58c60fa70fde93aeb96f4c59d231978888d9c3eab1ea37be784e0126ce005ca0" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:468346016" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:468470098" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -115,26 +115,26 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NmZlYjNmNTg3OTFhNzM5ZDAzMDUzYWM0OGQ2NzVjODI3MWYwOGY0YWNlZDAyODI3MTMzZDM2ZmVhZjc3MGU0NHx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiI4ODU5OkYwOTI6OUJEMjE6QThFNjg6NjI2QUU3OTUiLCJ0aW1lc3RhbXAiOjE2NTExNzMyNjksImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YjQ0ZGE4Y2YzZTJmMzVmNDc4ZTk1ZTY4ODFjMjY2OGYzZjgyZGJlMjMwNWU3ODU3MzU2NThlN2NkYjM0ZTgxZnx7InJlbW90ZV9hZGRyZXNzIjoiMTk2LjE4OS4yMzMuNCIsInJlcXVlc3RfaWQiOiIxQTlDOjU3RkY6OUYxMTcwOkFDQkEzRTo2MjZCREVDNSIsInRpbWVzdGFtcCI6MTY1MTIzNjU0OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,COMMAND_PALETTE_PJAX_DISABLED,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
+    <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,COMMAND_PALETTE_MULTI_PAGE,COMMAND_PALETTE_PJAX_DISABLED,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
 
-  <meta http-equiv="x-pjax-version" content="1e9a6cef3a611de0f352f283d19e9ae49edb9132c2cb66af67482af8984103b7" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="83eddf304eed8f9ca4eb3a9075cf45e4b157b2b55e94c3540bccfa34f960cc8d" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="ca8f28be2f02ebc697029bdc0646515d9017cf770c4c1ff8414eccd96f6b5a2a" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="b37f556224b3cbe94ae2ad71bceda983926b892d990e5a9b3350185bf3a57365" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="f0295c3c9d010b9df348488201a472078d3681582ab1206ee7e43ac8dd475275" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="ea08c14397a066b584d4618a89ffd51df7457ca581e45c90fe8cf6fe90093792" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="013b3aadc73e69808b4ba6d0d25d915cafa595056bca0fe41177d112d10f9ecc" data-turbo-track="reload">
   <meta name="turbo-cache-control" content="no-preview">
   
 
     
-  <meta name="go-import" content="github.com/adexino0606/alx-low_level_programming git https://github.com/adexino0606/alx-low_level_programming.git">
+  <meta name="go-import" content="github.com/Debsh/alx-low_level_programming git https://github.com/Debsh/alx-low_level_programming.git">
 
-  <meta name="octolytics-dimension-user_id" content="99974301" /><meta name="octolytics-dimension-user_login" content="adexino0606" /><meta name="octolytics-dimension-repository_id" content="468346016" /><meta name="octolytics-dimension-repository_nwo" content="adexino0606/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="468346016" /><meta name="octolytics-dimension-repository_network_root_nwo" content="adexino0606/alx-low_level_programming" />
+  <meta name="octolytics-dimension-user_id" content="99737825" /><meta name="octolytics-dimension-user_login" content="Debsh" /><meta name="octolytics-dimension-repository_id" content="468470098" /><meta name="octolytics-dimension-repository_nwo" content="Debsh/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="468470098" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Debsh/alx-low_level_programming" />
 
 
 
-    <link rel="canonical" href="https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -169,7 +169,7 @@
         <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-FXxeKaIzYxSHbANjkPcAAEI2iFr40766qkNe/IR7B+1doqBbfgrDsZ1H7erh07LY7iv6HFnXbtf5ngm64MRL5Q==" src="https://github.githubassets.com/assets/4775-157c5e29a233.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-H3XXi0078zHj23KNxF/Ckjm2QNidUwRPpYuyfq+I/iBK+nIDZ9Qd/N0qaah4ZcAyjc3OTgo0ZZHiVvz6ZNlx8g==" src="https://github.githubassets.com/assets/9255-1f75d78b4d3b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-CCT1/4NtLGATfZnPEEmNr3xzus0WMqBoNKCvsTtgsaMTA6euDihQ0Vzg5sMC09nX+UBXAYZ19dwsUZlbpX2RHg==" src="https://github.githubassets.com/assets/5623-0824f5ff836d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-iacK48uSDWa2Q2qyUTJxv3d9PGbgDvjPJrdt03bpQf36zB9YegIAG+t3TKwS17sDt4gHXmbrB9IgE9PVYsDUNw==" src="https://github.githubassets.com/assets/command-palette-89a70ae3cb92.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-CO0Qr0Y3kOo3WTYfpbE8fnnoTbqieBVSWnzpLW/X1L5SlxlpTPq8LrklomZ3em2HjjBlQ9iHj6m3I+7zcmAHNA==" src="https://github.githubassets.com/assets/command-palette-08ed10af4637.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
@@ -203,7 +203,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="468346016" data-scoped-search-url="/adexino0606/alx-low_level_programming/search" data-owner-scoped-search-url="/users/adexino0606/search" data-unscoped-search-url="/search" data-turbo="false" action="/adexino0606/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="468470098" data-scoped-search-url="/Debsh/alx-low_level_programming/search" data-owner-scoped-search-url="/users/Debsh/search" data-unscoped-search-url="/search" data-turbo="false" action="/Debsh/alx-low_level_programming/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -224,7 +224,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="SumR2kkuJZECGys6Doge5_rcpAzbrc0nVyaXIJyYoIoUPUwnsWol2vQD81uGRbVUeKyN3SMKM5NGp-Zh6DTuCg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="DUN2OTZm_n3enLXN0JEPXDFVOGgVxPKW9jJAfNaNHPpTl6vEziL-NiiEbaxYXKTvsyURue1jDCLnszE9oiFSeg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -423,7 +423,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="8550b74c3c1b4c465bd87232f4b515ad6007ed276cf2fb0f1f0b01a9fc4e36aa" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;aysi143&quot;,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="8a778b1f9e27c31b5f1d18a1dfe973b554885a7d8b025c6db3282902af1875d3" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -431,7 +431,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/49403558?s=40&amp;v=4" width="20" height="20" alt="@aysi143" />
       aysi143
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LBgWLlt8mr2sE9ijrUlM-iPJISX8tn07B2v56Nk5BqKGtHySN3tro_VooNg-aBf5F-bzMMTQ8fjfdtsbcX2UFw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r9T5uis1cmDHVMuxAC9IOTwiD7pgX3ttx8vlfUhj4bQFeJMGRzKDfp4vs8qTDhM6CA3dr1g5964f1seO4CdzAQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -470,7 +470,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUxMTczMjY5fQ==--bd3671f3f86e8b7b9c14762d8fec285aaf699753aabe5e7a2a9de3fa9b5e6ce2">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDk0MDM1NTgiLCJ0IjoxNjUxMjM2NTQ5fQ==--3439c869895c03b3c14d4aedde5ccdf29962c8c205b1a90646c930c8b0156d52">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -608,23 +608,27 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c
+      data-return-to=/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c
       data-user-id="49403558"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
+        data-multi-page-enabled
         data-action="
+          command-palette-page-stack-updated:command-palette#updateInputScope
+          itemsUpdated:command-palette#itemsUpdated
           keydown:command-palette#onKeydown
           loadingStateChanged:command-palette#loadingStateChanged
           selectedItemChanged:command-palette#selectedItemChanged
+          pageFetchError:command-palette#pageFetchError
         "
       >
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="wrG3rh8WUrCPNl5Qcdl7WW7oXx6jJQyQ56gRAt9ERK65oLeIeTgSMJHpYVUIjgP2bfXW-kuMnOBYNHmLZzFgYA" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="fkNDxIVLaoiNV0C43gtETjBtGpToFZLxbvLthxfhMlcFUkPi42UqCJOIf72nXDzhM3CTcAC8AoHRboUOr5QWmQ" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="3l5DdX3nxWZArIf2_55Qve-G0DWPA0TE_NAfpayviA_bDud9nO6gvfkZyRp7EL0_jyDM12xw-O4hCI0x_NSfsw" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="f3LwNSBkHdE5fDQyHah5yga0_eJPZc1AZO7k__4XFo16IlQ9wW14CoDJet6ZJpRIZhLhAKwWcWq5NnZrrmwBMQ" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -680,6 +684,7 @@
       ></command-palette-mode>
 
       <command-palette-input placeholder="Search or jump to..."
+          data-multi-page-enabled
         data-action="
           command-palette-input:command-palette#onInput
           command-palette-select:command-palette#onSelect
@@ -715,17 +720,17 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="adexino0606"
-                data-id="U_kgDOBfV8nQ"
+                data-text="Debsh"
+                data-id="U_kgDOBfHg4Q"
                 data-type="owner"
-                data-value="adexino0606"
+                data-value="Debsh"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >adexino0606<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Debsh<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
                 data-text="alx-low_level_programming"
-                data-id="R_kgDOG-pkoA"
+                data-id="R_kgDOG-xJUg"
                 data-type="repository"
                 data-value="alx-low_level_programming"
                 data-targets="command-palette-scope.tokens"
@@ -770,14 +775,7 @@
         <tool-tip hidden="hidden" for="command-palette-clear-button" data-direction="w" data-type="description" data-view-component="true">Clear</tool-tip>
       </command-palette-input>
 
-        <command-palette-item-stack
-          id="command-palette-item-stack"
-          class="item-stack-transition-height"
-          
-          role="listbox"
-          aria-label="Command palette results"
-          data-action="itemsUpdated:command-palette#itemsUpdated"
-        >
+        <command-palette-page-stack data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons">
             <command-palette-tip
               class="color-fg-muted f6 px-3 py-1 my-2"
                 data-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
@@ -973,7 +971,7 @@
                 </div>
               </div>
             </command-palette-tip>
-          <command-palette-tip class="mx-3 my-2 flash flash-error d-flex flex-items-center" data-on-error>
+          <command-palette-tip class="mx-3 my-2 flash flash-error d-flex flex-items-center" data-scope-types="*" data-on-error>
             <div>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
@@ -983,147 +981,232 @@
               We’ve encountered an error and some results aren't available at this time. Type a new search or try again later.
             </div>
           </command-palette-tip>
-          <command-palette-tip class="h4 color-fg-default pl-3 pb-2 pt-3" data-on-empty data-match-mode="[^?]|^$">
+          <command-palette-tip class="h4 color-fg-default pl-3 pb-2 pt-3" data-on-empty data-scope-types="*" data-match-mode="[^?]|^$">
             No results matched your search
           </command-palette-tip>
 
-            <command-palette-item-group
-              data-group-id="top"
-              data-group-title="Top result"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
+          <div hidden>
+
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="arrow-right-color-fg-muted">
+                <svg height="16" class="octicon octicon-arrow-right color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 2.97a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06l2.97-2.97H3.75a.75.75 0 010-1.5h7.44L8.22 4.03a.75.75 0 010-1.06z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="arrow-right-color-fg-default">
+                <svg height="16" class="octicon octicon-arrow-right color-fg-default" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 2.97a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06l2.97-2.97H3.75a.75.75 0 010-1.5h7.44L8.22 4.03a.75.75 0 010-1.06z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="codespaces-color-fg-muted">
+                <svg height="16" class="octicon octicon-codespaces color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 1.75C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 01-1.75 1.75h-8.5A1.75 1.75 0 012 6.75v-5zm1.75-.25a.25.25 0 00-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25v-5a.25.25 0 00-.25-.25h-8.5zM0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25v-3zM1.75 11a.25.25 0 00-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25v-3a.25.25 0 00-.25-.25H1.75z"></path><path fill-rule="evenodd" d="M3 12.75a.75.75 0 01.75-.75h.5a.75.75 0 010 1.5h-.5a.75.75 0 01-.75-.75zm4 0a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="copy-color-fg-muted">
+                <svg height="16" class="octicon octicon-copy color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="dash-color-fg-muted">
+                <svg height="16" class="octicon octicon-dash color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 7.75A.75.75 0 012.75 7h10a.75.75 0 010 1.5h-10A.75.75 0 012 7.75z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="file-color-fg-muted">
+                <svg height="16" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="gear-color-fg-muted">
+                <svg height="16" class="octicon octicon-gear color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="lock-color-fg-muted">
+                <svg height="16" class="octicon octicon-lock color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 4v2h-.25A1.75 1.75 0 002 7.75v5.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-5.5A1.75 1.75 0 0012.25 6H12V4a4 4 0 10-8 0zm6.5 2V4a2.5 2.5 0 00-5 0v2h5zM12 7.5h.25a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-5.5a.25.25 0 01.25-.25H12z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="moon-color-fg-muted">
+                <svg height="16" class="octicon octicon-moon color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="person-color-fg-muted">
+                <svg height="16" class="octicon octicon-person color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="pencil-color-fg-muted">
+                <svg height="16" class="octicon octicon-pencil color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="issue-opened-open">
+                <svg height="16" class="octicon octicon-issue-opened open" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="git-pull-request-draft-color-fg-muted">
+                <svg height="16" class="octicon octicon-git-pull-request-draft color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"></path><path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="search-color-fg-muted">
+                <svg height="16" class="octicon octicon-search color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="sun-color-fg-muted">
+                <svg height="16" class="octicon octicon-sun color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="sync-color-fg-muted">
+                <svg height="16" class="octicon octicon-sync color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.5a5.487 5.487 0 00-4.131 1.869l1.204 1.204A.25.25 0 014.896 6H1.25A.25.25 0 011 5.75V2.104a.25.25 0 01.427-.177l1.38 1.38A7.001 7.001 0 0114.95 7.16a.75.75 0 11-1.49.178A5.501 5.501 0 008 2.5zM1.705 8.005a.75.75 0 01.834.656 5.501 5.501 0 009.592 2.97l-1.204-1.204a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.38-1.38A7.001 7.001 0 011.05 8.84a.75.75 0 01.656-.834z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="trash-color-fg-muted">
+                <svg height="16" class="octicon octicon-trash color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="key-color-fg-muted">
+                <svg height="16" class="octicon octicon-key color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 5.5a4 4 0 112.731 3.795.75.75 0 00-.768.18L7.44 10.5H6.25a.75.75 0 00-.75.75v1.19l-.06.06H4.25a.75.75 0 00-.75.75v1.19l-.06.06H1.75a.25.25 0 01-.25-.25v-1.69l5.024-5.023a.75.75 0 00.181-.768A3.995 3.995 0 016.5 5.5zm4-5.5a5.5 5.5 0 00-5.348 6.788L.22 11.72a.75.75 0 00-.22.53v2C0 15.216.784 16 1.75 16h2a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V14h.75a.75.75 0 00.53-.22l.5-.5a.75.75 0 00.22-.53V12h.75a.75.75 0 00.53-.22l.932-.932A5.5 5.5 0 1010.5 0zm.5 6a1 1 0 100-2 1 1 0 000 2z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="comment-discussion-color-fg-muted">
+                <svg height="16" class="octicon octicon-comment-discussion color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="bell-color-fg-muted">
+                <svg height="16" class="octicon octicon-bell color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="bell-slash-color-fg-muted">
+                <svg height="16" class="octicon octicon-bell-slash color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5c-.997 0-1.895.416-2.534 1.086A.75.75 0 014.38 1.55 5 5 0 0113 5v2.373a.75.75 0 01-1.5 0V5A3.5 3.5 0 008 1.5zM4.182 4.31L1.19 2.143a.75.75 0 10-.88 1.214L3 5.305v2.642a.25.25 0 01-.042.139L1.255 10.64A1.518 1.518 0 002.518 13h11.108l1.184.857a.75.75 0 10.88-1.214l-1.375-.996a1.196 1.196 0 00-.013-.01L4.198 4.321a.733.733 0 00-.016-.011zm7.373 7.19L4.5 6.391v1.556c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01.015.015 0 00.005.012.017.017 0 00.006.004l.007.001h9.037zM8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path></svg>
+              </div>
+              <div data-targets="command-palette-page-stack.localOcticons" data-octicon-id="paintbrush-color-fg-muted">
+                <svg height="16" class="octicon octicon-paintbrush color-fg-muted" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.134 1.535C9.722 2.562 8.16 4.057 6.889 5.312 5.8 6.387 5.041 7.401 4.575 8.294a3.745 3.745 0 00-3.227 1.054c-.43.431-.69 1.066-.86 1.657a11.982 11.982 0 00-.358 1.914A21.263 21.263 0 000 15.203v.054l.75-.007-.007.75h.054a14.404 14.404 0 00.654-.012 21.243 21.243 0 001.63-.118c.62-.07 1.3-.18 1.914-.357.592-.17 1.226-.43 1.657-.861a3.745 3.745 0 001.055-3.217c.908-.461 1.942-1.216 3.04-2.3 1.279-1.262 2.764-2.825 3.775-4.249.501-.706.923-1.428 1.125-2.096.2-.659.235-1.469-.368-2.07-.606-.607-1.42-.55-2.069-.34-.66.213-1.376.646-2.076 1.155zm-3.95 8.48a3.76 3.76 0 00-1.19-1.192 9.758 9.758 0 011.161-1.607l1.658 1.658a9.853 9.853 0 01-1.63 1.142zM.742 16l.007-.75-.75.008A.75.75 0 00.743 16zM12.016 2.749c-1.224.89-2.605 2.189-3.822 3.384l1.718 1.718c1.21-1.205 2.51-2.597 3.387-3.833.47-.662.78-1.227.912-1.662.134-.444.032-.551.009-.575h-.001V1.78c-.014-.014-.112-.113-.548.027-.432.14-.995.462-1.655.942zM1.62 13.089a19.56 19.56 0 00-.104 1.395 19.55 19.55 0 001.396-.104 10.528 10.528 0 001.668-.309c.526-.151.856-.325 1.011-.48a2.25 2.25 0 00-3.182-3.182c-.155.155-.329.485-.48 1.01a10.515 10.515 0 00-.309 1.67z"></path></svg>
+              </div>
+
+              <command-palette-item-group
+                data-group-id="top"
+                data-group-title="Top result"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="0"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="commands"
+                data-group-title="Commands"
+                data-group-hint="Type &gt; to filter"
+                data-group-limits="{&quot;static_items_page&quot;:50}"
+                data-default-priority="1"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="global_commands"
+                data-group-title="Global Commands"
+                data-group-hint="Type &gt; to filter"
+                data-group-limits="{}"
+                data-default-priority="2"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="this_page"
+                data-group-title="This Page"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="3"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="files"
+                data-group-title="Files"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="4"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="default"
+                data-group-title="Default"
+                data-group-hint=""
+                data-group-limits="{&quot;static_items_page&quot;:50}"
+                data-default-priority="5"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="pages"
+                data-group-title="Pages"
+                data-group-hint=""
+                data-group-limits="{&quot;repository&quot;:10}"
+                data-default-priority="6"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="access_policies"
+                data-group-title="Access Policies"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="7"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="organizations"
+                data-group-title="Organizations"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="8"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="repositories"
+                data-group-title="Repositories"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="9"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="references"
+                data-group-title="Issues, pull requests, and discussions"
+                data-group-hint="Type # to filter"
+                data-group-limits="{}"
+                data-default-priority="10"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="teams"
+                data-group-title="Teams"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="11"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="users"
+                data-group-title="Users"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="12"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="projects"
+                data-group-title="Projects"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="13"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="footer"
+                data-group-title="Footer"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="14"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="modes_help"
+                data-group-title="Modes"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="15"
+              >
+              </command-palette-item-group>
+              <command-palette-item-group
+                data-group-id="filters_help"
+                data-group-title="Use filters in issues, pull requests, discussions, and projects"
+                data-group-hint=""
+                data-group-limits="{}"
+                data-default-priority="16"
+              >
+              </command-palette-item-group>
+          </div>
+
+          <command-palette-page data-is-root>
+          </command-palette-page>
+            <command-palette-page
+              data-page-title="Debsh"
+              data-scope-id="U_kgDOBfHg4Q"
+              data-scope-type="owner"
             >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="commands"
-              data-group-title="Commands"
-              data-group-hint="Type &gt; to filter"
-              data-group-limits="{&quot;static_items_page&quot;:50}"
-              data-targets="command-palette-item-stack.groups"
+            </command-palette-page>
+            <command-palette-page
+              data-page-title="alx-low_level_programming"
+              data-scope-id="R_kgDOG-xJUg"
+              data-scope-type="repository"
             >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="global_commands"
-              data-group-title="Global Commands"
-              data-group-hint="Type &gt; to filter"
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="this_page"
-              data-group-title="This Page"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="files"
-              data-group-title="Files"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="default"
-              data-group-title="Default"
-              data-group-hint=""
-              data-group-limits="{&quot;static_items_page&quot;:50}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="pages"
-              data-group-title="Pages"
-              data-group-hint=""
-              data-group-limits="{&quot;repository&quot;:10}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="access_policies"
-              data-group-title="Access Policies"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="organizations"
-              data-group-title="Organizations"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="repositories"
-              data-group-title="Repositories"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="references"
-              data-group-title="Issues, pull requests, and discussions"
-              data-group-hint="Type # to filter"
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="teams"
-              data-group-title="Teams"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="users"
-              data-group-title="Users"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="projects"
-              data-group-title="Projects"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="footer"
-              data-group-title="Footer"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="modes_help"
-              data-group-title="Modes"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-            <command-palette-item-group
-              data-group-id="filters_help"
-              data-group-title="Use filters in issues, pull requests, discussions, and projects"
-              data-group-hint=""
-              data-group-limits="{}"
-              data-targets="command-palette-item-stack.groups"
-            >
-            </command-palette-item-group>
-        </command-palette-item-stack>
+            </command-palette-page>
+        </command-palette-page-stack>
 
       <div class="js-command-local-provider-octicons" hidden>
           <div data-local-provider-octicon-id="arrow-right-color-fg-muted">
@@ -1486,9 +1569,25 @@
 </div>
 
         <command-palette-pjax-metadata hidden class="js-command-palette-pjax-metadata" data-pjax-replace id="command-palette-pjax-metadata"
-  data-default-scope-id="R_kgDOG-pkoA"
+  data-default-scope-id="R_kgDOG-xJUg"
   data-default-scope-type="Repository"
 >
+    <command-palette-page
+      data-page-title="Debsh"
+      data-scope-id="U_kgDOBfHg4Q"
+      data-scope-type="owner"
+      data-targets="command-palette-pjax-metadata.defaultPages"
+      hidden
+    >
+    </command-palette-page>
+    <command-palette-page
+      data-page-title="alx-low_level_programming"
+      data-scope-id="R_kgDOG-xJUg"
+      data-scope-type="repository"
+      data-targets="command-palette-pjax-metadata.defaultPages"
+      hidden
+    >
+    </command-palette-page>
 </command-palette-pjax-metadata>
 
 
@@ -1519,11 +1618,11 @@
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
 </svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/adexino0606/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adexino0606">adexino0606</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Debsh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Debsh">Debsh</a>
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" href="/adexino0606/alx-low_level_programming">alx-low_level_programming</a>
+    <a data-pjax="#repo-content-pjax-container" href="/Debsh/alx-low_level_programming">alx-low_level_programming</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1546,7 +1645,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="9c5856dc16e2d64d48e701b20f90e4db64b2a250dd9693d5d51affd88f474d16" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="ac7e2b2d55a32df2a4f4cd15b1ac050f72528254cf1b8a938f685cb867620c9d" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1599,9 +1698,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RuFjYQ6u5vRsVeiMJGOTNLGEXgxQ_NQp8MngGew8pv3Yll54l8RUyKpjl9Q2Rj292YQj8ch7ut3fd8f0YBO0JA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kwcJA7fHrJVwbX13NKaHcwGbCoTLPMoJXO8Lj-0TiaoNcDQaLq0eqbZbAi8mgyn6aZt3eVO7pP1zUSxiYTybcw" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="468346016">
+                <input type="hidden" name="repository_id" value="468470098">
 
                 <button
                   type="submit"
@@ -1717,9 +1816,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RF-1x1feRfO1Q5Kn6a8kLO1atitQ0cTJzKoEWLM8EGnaKIjezrT3z3N17f_7ioqlhVrL1shWqj3jFCO1PxMCsA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ow01aGFIhVrLxJFz8Bo4qcgVlDWaJdviKavrjktLlqeleghx-CI3Zg3y7iviP5YgoBXpyAKitRYGFcxjx2SEfg" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="468346016">
+              <input type="hidden" name="repository_id" value="468470098">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1864,10 +1963,10 @@
   </li>
 
   <li>
-            <a href="/adexino0606/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="6ba5d56bb62fbe4c17617ddec820beb42ce04906df650ed2ee7804ea86d4dcbb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of adexino0606/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/Debsh/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="eec9ec4b5f46693988d0d2b5e621cd7f56a20fae4df7e0d07208f7179fa6c983" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Debsh/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" title="5" data-view-component="true" class="Counter">5</span>
+          <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
   
 </a>
   </li>
@@ -1893,26 +1992,26 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/adexino0606/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vo6DxnI5PSfv-4cJ-qb_th-H3iG_1u4C9zdj1bSBEQmFxb9wHdUdG9wRDBt0h1CCwBpBhPMa0gpdvJccM1jJyg" autocomplete="off" />
-        <input type="hidden" value="Z0-rcOy0MeKEIbMWAcja2HUkInXhUDuZ_ey0Utq8ZElcBJfGg1gR3rfLOASP6XXsqrm90K2cB5FXZ0CbXWW8ig" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Debsh/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="41I_tFTsozqmSuR7Vqpy9nD4Wnv6o9K18m9YEcV6Lr_ngyZckPFctz27kRaG4wU6IZSvTfQg8pBSlDJDMQCWOA" autocomplete="off" />
+        <input type="hidden" value="NofPMKw1VEt1yqoarnxtP7uEI4JKAXQUqyCOVG6g9rUyVtbYaCirxu4733d-NRrz6ujWtESCVDEL2-QGmtpOMg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="a83f7f2abf9c2456b2d872b9435e14268073b270d9dfb1a9258983433459c50d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="f855db7ae0ed202e5a17e6a702cdcde94db24bd976cf5256f968b93b0c687103" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
-</span>          <span id="repo-stars-counter-unstar" aria-label="3 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="3" data-view-component="true" class="Counter js-social-count">3</span>
+</span>          <span id="repo-stars-counter-unstar" aria-label="2 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="2" data-view-component="true" class="Counter js-social-count">2</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/adexino0606/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j8dGUR0xjykMerfbW0vwBOm-Nzh3rIpeHzTRUQPcBqYhBTuDKLLXz6YshG-tX1yWU3jqv73RsDI7SIHcWyuD8g" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Debsh/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_sjYMML1iRMPRYkdOrv4f_IyKadSClQWS-lkmOEnCNFQjFpbUt9CtNZIuM1L_c0IzyMCZIeOXriA82WulmZBIg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="4710f7906b94dc7a1d4f6c9226302473a9035d9230d0b1e56ea32cde27dfd25d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="1f43b6d240b3913d6efe9d41fe58e0c8825ef2b88c8295ec60bde589507bb8aa" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="3 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="3" data-view-component="true" class="Counter js-social-count">3</span>
+</span>          <span id="repo-stars-counter-star" aria-label="2 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="2" data-view-component="true" class="Counter js-social-count">2</span>
   
 </button></form>
-      <details id="details-user-list-468346016" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-user-list-468470098" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1920,19 +2019,19 @@
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/adexino0606/alx-low_level_programming/lists"
+      src="/Debsh/alx-low_level_programming/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1dcc7d">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-48fd72">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-1dcc7d"
+        id="filter-menu-48fd72"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1969,7 +2068,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/adexino0606/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /adexino0606/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Debsh/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Debsh/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -1981,7 +2080,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/adexino0606/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /adexino0606/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Debsh/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Debsh/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -1993,7 +2092,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/adexino0606/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /adexino0606/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Debsh/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Debsh/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2005,7 +2104,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/adexino0606/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /adexino0606/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Debsh/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Debsh/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2017,7 +2116,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/adexino0606/alx-low_level_programming/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /adexino0606/alx-low_level_programming/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Debsh/alx-low_level_programming/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Debsh/alx-low_level_programming/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2029,7 +2128,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/adexino0606/alx-low_level_programming/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /adexino0606/alx-low_level_programming/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/Debsh/alx-low_level_programming/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Debsh/alx-low_level_programming/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2041,18 +2140,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/adexino0606/alx-low_level_programming/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /adexino0606/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Debsh/alx-low_level_programming/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Debsh/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/adexino0606/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/Debsh/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/adexino0606/alx-low_level_programming/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /adexino0606/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Debsh/alx-low_level_programming/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Debsh/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -2076,35 +2175,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /adexino0606/alx-low_level_programming" href="/adexino0606/alx-low_level_programming">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Debsh/alx-low_level_programming" href="/Debsh/alx-low_level_programming">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /adexino0606/alx-low_level_programming/issues" href="/adexino0606/alx-low_level_programming/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Debsh/alx-low_level_programming/issues" href="/Debsh/alx-low_level_programming/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /adexino0606/alx-low_level_programming/pulls" href="/adexino0606/alx-low_level_programming/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Debsh/alx-low_level_programming/pulls" href="/Debsh/alx-low_level_programming/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /adexino0606/alx-low_level_programming/actions" href="/adexino0606/alx-low_level_programming/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Debsh/alx-low_level_programming/actions" href="/Debsh/alx-low_level_programming/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /adexino0606/alx-low_level_programming/projects?type=beta" href="/adexino0606/alx-low_level_programming/projects?type=beta">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Debsh/alx-low_level_programming/projects?type=beta" href="/Debsh/alx-low_level_programming/projects?type=beta">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /adexino0606/alx-low_level_programming/wiki" href="/adexino0606/alx-low_level_programming/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Debsh/alx-low_level_programming/wiki" href="/Debsh/alx-low_level_programming/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /adexino0606/alx-low_level_programming/security" href="/adexino0606/alx-low_level_programming/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Debsh/alx-low_level_programming/security" href="/Debsh/alx-low_level_programming/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /adexino0606/alx-low_level_programming/pulse" href="/adexino0606/alx-low_level_programming/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Debsh/alx-low_level_programming/pulse" href="/Debsh/alx-low_level_programming/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -2135,7 +2234,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/adexino0606/alx-low_level_programming/blob/6b78f15b1d992b4d2af6d3f577595582ff547866/0x14-bit_manipulation/0-binary_to_uint.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Debsh/alx-low_level_programming/blob/52b3e40f56bf6b9ec396ea589c33482852c43c15/0x14-bit_manipulation/0-binary_to_uint.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2147,7 +2246,7 @@
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>master</span>
+      <span class="css-truncate-target" data-menu-button>main</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2191,12 +2290,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/adexino0606/alx-low_level_programming/refs"
+            query-endpoint="/Debsh/alx-low_level_programming/refs"
             
-            cache-key="v0:1646918468.071431"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="YWRleGlubzA2MDYvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZw=="
+            cache-key="v0:1646945900.82999"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="RGVic2gvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZw=="
             prefetch-on-mouseover
           >
 
@@ -2219,7 +2318,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/adexino0606/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Debsh/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2229,7 +2328,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/adexino0606/alx-low_level_programming/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Debsh/alx-low_level_programming/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2243,11 +2342,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/adexino0606/alx-low_level_programming/refs"
-            cache-key="v0:1646918468.071431"
-            current-committish="bWFzdGVy"
-            default-branch="bWFzdGVy"
-            name-with-owner="YWRleGlubzA2MDYvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZw=="
+            query-endpoint="/Debsh/alx-low_level_programming/refs"
+            cache-key="v0:1646945900.82999"
+            current-committish="bWFpbg=="
+            default-branch="bWFpbg=="
+            name-with-owner="RGVic2gvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZw=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2259,7 +2358,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/adexino0606/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Debsh/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x14-bit_manipulation/0-binary_to_uint.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2277,7 +2376,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/adexino0606/alx-low_level_programming/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Debsh/alx-low_level_programming/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2290,9 +2389,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/adexino0606/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/adexino0606/alx-low_level_programming/tree/master/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">0-binary_to_uint.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Debsh/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Debsh/alx-low_level_programming/tree/main/0x14-bit_manipulation"><span>0x14-bit_manipulation</span></a></span><span class="separator">/</span><strong class="final-path">0-binary_to_uint.c</strong>
   </h2>
-  <a href="/adexino0606/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
+  <a href="/Debsh/alx-low_level_programming/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
@@ -2303,7 +2402,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="f9aa6d7b313fb2149dab777ea777c60473b4c05f43571e6fb067c19a9d83a147" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/adexino0606/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="0cbe912b2e1c7c357b350972d6a462cca1c9149155eda31638b54e724fccc9fb" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Debsh/alx-low_level_programming/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2322,7 +2421,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/adexino0606/alx-low_level_programming/blob/6b78f15b1d992b4d2af6d3f577595582ff547866/0x14-bit_manipulation/0-binary_to_uint.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Debsh/alx-low_level_programming/blob/52b3e40f56bf6b9ec396ea589c33482852c43c15/0x14-bit_manipulation/0-binary_to_uint.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2351,37 +2450,37 @@
   
 </div></div>
 
-    <include-fragment src="/adexino0606/alx-low_level_programming/spoofed_commit_check/6b78f15b1d992b4d2af6d3f577595582ff547866" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Debsh/alx-low_level_programming/spoofed_commit_check/52b3e40f56bf6b9ec396ea589c33482852c43c15" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   
   <div class="Box-header Details js-details-container">
       <div class="d-flex flex-items-center">
         <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/Eaziade0202/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Eaziade0202"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/99415011?s=48&amp;v=4" width="24" height="24" alt="@Eaziade0202" /></a>
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/Debsh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Debsh"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/99737825?s=48&amp;v=4" width="24" height="24" alt="@Debsh" /></a>
         </span>
         <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
           <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/Eaziade0202/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Eaziade0202">Eaziade0202</a>
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Debsh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Debsh">Debsh</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="0-binary_to_uint.c" class="Link--secondary" href="/adexino0606/alx-low_level_programming/commit/8218a2eeb3c63816b750aef73488c60f96324eb8">0-binary_to_uint.c</a>
+                <a data-pjax="true" title="done" class="Link--secondary" href="/Debsh/alx-low_level_programming/commit/1bd23c74d06d4d5e638b6ccdeafc9da884ec1fee">done</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/adexino0606/alx-low_level_programming/commit/8218a2eeb3c63816b750aef73488c60f96324eb8/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/Debsh/alx-low_level_programming/commit/1bd23c74d06d4d5e638b6ccdeafc9da884ec1fee/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/adexino0606/alx-low_level_programming/commit/8218a2eeb3c63816b750aef73488c60f96324eb8" data-pjax>8218a2e</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-04-28T06:09:38Z" class="no-wrap">Apr 28, 2022</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/Debsh/alx-low_level_programming/commit/1bd23c74d06d4d5e638b6ccdeafc9da884ec1fee" data-pjax>1bd23c7</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-04-28T19:24:43Z" class="no-wrap">Apr 28, 2022</relative-time></span>
           </span>
 
-          <a data-pjax href="/adexino0606/alx-low_level_programming/commits/master/0x14-bit_manipulation/0-binary_to_uint.c" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/Debsh/alx-low_level_programming/commits/main/0x14-bit_manipulation/0-binary_to_uint.c" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2407,7 +2506,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/adexino0606/alx-low_level_programming/contributors-list/master/0x14-bit_manipulation/0-binary_to_uint.c" preload>
+        src="/Debsh/alx-low_level_programming/contributors-list/main/0x14-bit_manipulation/0-binary_to_uint.c" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2450,6 +2549,8 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
+      <span class="file-mode" title="File mode">executable file</span>
+      <span class="file-info-divider"></span>
       37 lines (30 sloc)
       <span class="file-info-divider"></span>
     488 Bytes
@@ -2459,16 +2560,16 @@
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/adexino0606/alx-low_level_programming/raw/6b78f15b1d992b4d2af6d3f577595582ff547866/0x14-bit_manipulation/0-binary_to_uint.c" href="/adexino0606/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/Debsh/alx-low_level_programming/raw/52b3e40f56bf6b9ec396ea589c33482852c43c15/0x14-bit_manipulation/0-binary_to_uint.c" href="/Debsh/alx-low_level_programming/raw/main/0x14-bit_manipulation/0-binary_to_uint.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/adexino0606/alx-low_level_programming/blame/6b78f15b1d992b4d2af6d3f577595582ff547866/0x14-bit_manipulation/0-binary_to_uint.c" href="/adexino0606/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/Debsh/alx-low_level_programming/blame/52b3e40f56bf6b9ec396ea589c33482852c43c15/0x14-bit_manipulation/0-binary_to_uint.c" href="/Debsh/alx-low_level_programming/blame/main/0x14-bit_manipulation/0-binary_to_uint.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/adexino0606/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
+             href="x-github-client://openRepo/https://github.com/Debsh/alx-low_level_programming?branch=main&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2476,11 +2577,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/adexino0606/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Debsh/alx-low_level_programming/raw/main/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e59991e251d13d7605f4b65349768406ad31144f788eed3c95be96ab88763028" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="01d1ac4baded539fc32dc75abad2b44c6a0cb3882d7dae3b1dc5c0d4885b9dbb" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2503,7 +2604,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/adexino0606/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D5Tn5d_us58HvSQpJO5xbKukgz_OPGSS0yfGuax_sU8jVHAZjcmwQIHAn0YveIY8RNM_RkjvgsDXzprS0yk-Xg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Debsh/alx-low_level_programming/edit/main/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rQSbjZRvSnwCpmSvAw8300SY3A_r6-qZS8DBIpu3M82_9UonQ6PlyF-cOAAxyL-EuKmwU748qGqHaOiJEvocIA" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2511,7 +2612,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/adexino0606/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="B1Q8XECN6mur9Gz5SBDBnOPSJRr4u0Axk4_x_b2mXOmlaGRA_QmEIc0lpmX1f_fBBBtcaf8p9cMS7xUbaHeCuA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Debsh/alx-low_level_programming/delete/main/0x14-bit_manipulation/0-binary_to_uint.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yRMGsFMhnafspXfp3fAAoSqGDJIXxdz0ma2ryUWdykgXQHbMQNJFTp9bpLKE0dOwcIrmPGzjm8LGv_Iql94odQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2533,21 +2634,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/adexino0606/alx-low_level_programming?branch=master&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
+                   href="x-github-client://openRepo/https://github.com/Debsh/alx-low_level_programming?branch=main&amp;filepath=0x14-bit_manipulation%2F0-binary_to_uint.c"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/adexino0606/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c">
+            <a class="dropdown-item" href="/Debsh/alx-low_level_programming/raw/main/0x14-bit_manipulation/0-binary_to_uint.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/adexino0606/alx-low_level_programming/raw/master/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Debsh/alx-low_level_programming/raw/main/0x14-bit_manipulation/0-binary_to_uint.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468346016,&quot;originating_url&quot;:&quot;https://github.com/adexino0606/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="e59991e251d13d7605f4b65349768406ad31144f788eed3c95be96ab88763028">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468470098,&quot;originating_url&quot;:&quot;https://github.com/Debsh/alx-low_level_programming/blob/main/0x14-bit_manipulation/0-binary_to_uint.c&quot;,&quot;user_id&quot;:49403558}}" data-hydro-click-hmac="01d1ac4baded539fc32dc75abad2b44c6a0cb3882d7dae3b1dc5c0d4885b9dbb">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2570,17 +2671,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/adexino0606/alx-low_level_programming/blame/master/0x14-bit_manipulation/0-binary_to_uint.c">
+              <a class="dropdown-item" href="/Debsh/alx-low_level_programming/blame/main/0x14-bit_manipulation/0-binary_to_uint.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/adexino0606/alx-low_level_programming/edit/master/0x14-bit_manipulation/0-binary_to_uint.c">Edit file</a>
+                <a class="dropdown-item" href="/Debsh/alx-low_level_programming/edit/main/0x14-bit_manipulation/0-binary_to_uint.c">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/adexino0606/alx-low_level_programming/delete/master/0x14-bit_manipulation/0-binary_to_uint.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Debsh/alx-low_level_programming/delete/main/0x14-bit_manipulation/0-binary_to_uint.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2798,8 +2899,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/adexino0606/alx-low_level_programming/blame/6b78f15b1d992b4d2af6d3f577595582ff547866/0x14-bit_manipulation/0-binary_to_uint.c">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/adexino0606/alx-low_level_programming/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Debsh/alx-low_level_programming/blame/52b3e40f56bf6b9ec396ea589c33482852c43c15/0x14-bit_manipulation/0-binary_to_uint.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Debsh/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
