@@ -1,7 +1,12 @@
-#include <stdio.h>
+#include "m.h"
 
-int main(int argc, char const *argv[])
+/**
+ * main - Entry point
+ *
+ * Return: Always 
+ */
+int main(void)
 {
-    printf("test\n");
-    return 0;
+	print_school();
+	return (EXIT_SUCCESS);
 }
